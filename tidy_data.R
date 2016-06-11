@@ -18,12 +18,23 @@ for(cname in colnames(players)) {
 }
 
 players <- players %>% 
+  separate(date_of_birth__age_, c("date_of_birth", "age"), sep = " ") %>% 
+  separate(club, c("club", "league"), sep = "\\s\\(") %>% 
+  separate(senior_debut, c("senior_debut_date", "senior_debut_match"), sep = ":\\s") %>% 
+  separate(senior_debut_match, c("senior_debut_match", "senior_debut_match_location"), sep = "\\s\\(") %>% 
+  separate(last_appearance, c("last_appearance_date", "last_appearance_match"), sep = ":\\s") %>% 
+  separate(last_appearance_match, c("last_appearance_match", "last_appearance_location"), sep = "\\s\\(") %>% 
   mutate(height = extract_numeric(height)) %>% 
   mutate(weight = extract_numeric(weight)) %>% 
-  seperate(date_of_birth__age_, c("date_of_birth", "age"), sep = " ") %>% 
   mutate(age = extract_numeric(age)) %>% 
-  separate(club, c("club", "league"), sep = " ") %>% 
-  separate(senior_debut, c("senior_debut_date", "senior_debut_match"), sep = ": ") %>% 
-  separate(last_appearance, c("last_appearance_date", "last_appearance_match"), sep = ": ")
+  mutate(league = str_replace_all(league, "\\)", "")) %>% 
+  mutate(senior_debut_match_location = str_replace_all(senior_debut_match_location, "\\)", "")) %>% 
+  mutate(last_appearance_location = str_replace_all(last_appearance_location, "\\)", ""))
 
-players
+# Convert all date columns into dates
+for(cname in colnames(select(players, contains("date")))) {
+  set(players, j = cname, value = dmy(players[[cname]]))
+}
+
+# save as new csv
+write.csv(players, "data/player_data_tidied.csv", row.names = FALSE)

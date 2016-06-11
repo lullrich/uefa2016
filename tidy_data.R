@@ -17,10 +17,7 @@ for(cname in colnames(players)) {
   set(players, j = cname, value = str_replace_all(players[[cname]], "\\s+", " "))
 }
 
-
-# 
 players <- players %>% 
-  apply(2, str_replace_all, "\\s+", " ") #replace whitespaces with single ws
   mutate(height = extract_numeric(height)) %>% 
   mutate(weight = extract_numeric(weight)) %>% 
   seperate(date_of_birth__age_, c("date_of_birth", "age"), sep = " ") %>% 

@@ -76,7 +76,7 @@ get_player_data <- function(nodes) {
 start_url <- "http://www.uefa.com/uefaeuro/"
 strttme <- now()
 # getting the data and making a data.table out of it
-teams <- read_html(start_url) %>% 
+players <- read_html(start_url) %>% 
   html_nodes("a.table_team-name_block") %>% 
   html_attr("href") %>% 
   unique() %>% 
@@ -89,5 +89,5 @@ teams <- read_html(start_url) %>%
 endtme <- now()
 total_time <- endtme - strttme
 total_time
-
-write.csv(teams, "data/teams_data.csv")
+# save to csv
+write.csv(players, "data/player_data.csv", row.names = FALSE)

@@ -29,8 +29,11 @@ players <- players %>%
   mutate(age = extract_numeric(age)) %>% 
   mutate(league = str_replace_all(league, "\\)", "")) %>% 
   mutate(senior_debut_match_location = str_replace_all(senior_debut_match_location, "\\)", "")) %>% 
-  mutate(last_appearance_location = str_replace_all(last_appearance_location, "\\)", ""))
-
+  mutate(last_appearance_location = str_replace_all(last_appearance_location, "\\)", "")) %>% 
+  mutate(caps = as.numeric(caps)) %>% 
+  mutate(goals = as.numeric(goals)) %>% 
+  mutate(goals_conceded = as.numeric(goals_conceded)) 
+  
 # Convert all date columns into dates
 for(cname in colnames(select(players, contains("date")))) {
   set(players, j = cname, value = dmy(players[[cname]]))
@@ -38,3 +41,6 @@ for(cname in colnames(select(players, contains("date")))) {
 
 # save as new csv
 write.csv(players, "data/player_data_tidied.csv", row.names = FALSE)
+
+summary(players)
+

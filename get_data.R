@@ -86,8 +86,11 @@ players <- read_html(start_url) %>%
   lapply(read_html) %>% 
   lapply(get_player_data) %>% 
   rbindlist(fill = TRUE)
+
 endtme <- now()
 total_time <- endtme - strttme
 total_time
-# save to csv
+# re-name cols and save to csv
+colnames(players) <- str_to_lower(colnames(players)) %>% 
+  str_replace_all("\\.", "_")
 write.csv(players, "data/player_data.csv", row.names = FALSE)

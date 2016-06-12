@@ -40,7 +40,15 @@ get_tm_data <- function(tm_player) {
   players$tm_value <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[10]") %>% 
     html_text()
-  
+  players$tm_height <- tm_player %>% 
+    html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[5]") %>% 
+    html_text()
+  players$tm_debut <- tm_player %>% 
+    html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[9]") %>% 
+    html_text()
+  players$country <- tm_player %>% 
+    html_nodes(xpath = "//*[@id='verein_head']/div/div/div[1]/div[1]/h1") %>% 
+    html_text()
   # Lastly we convert the list into a data.frame
   # and return it:
   data.frame(players)

@@ -6,7 +6,7 @@ library("stringr")
 library("lubridate")
 library("data.table")
 
-get_players_urls <- function(url) {
+get_player_urls <- function(url) {
   # function to get the URL for each player on a team.
   # Expects a url to a team page.
   # Returns a vector of URLs.
@@ -81,7 +81,7 @@ players <- read_html(start_url) %>%
   html_attr("href") %>% 
   unique() %>% 
   sapply(url_absolute, start_url) %>% 
-  lapply(get_players_urls) %>% 
+  lapply(get_player_urls) %>% 
   unlist() %>% 
   lapply(read_html) %>% 
   lapply(get_player_data) %>% 

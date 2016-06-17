@@ -28,22 +28,25 @@ get_tm_data <- function(tm_player) {
   players$tm_position <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[2]/table/tr[2]/td") %>% 
     html_text()
+  players$birthday <- tm_player %>% 
+    html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[3]") %>% 
+    html_text()
   players$tm_team_id <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[4]/a") %>% 
     html_attr("id")
   players$tm_team <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[4]/a/img") %>% 
     html_attr("alt")
-  players$tm_foot <- tm_player %>% 
+  players$foot <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[6]") %>% 
     html_text()
   players$tm_value <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[10]") %>% 
     html_text()
-  players$tm_height <- tm_player %>% 
+  players$height <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[5]") %>% 
     html_text()
-  players$tm_debut <- tm_player %>% 
+  players$debut <- tm_player %>% 
     html_nodes(xpath = "//*[@id='yw1']/table/tbody/tr/td[9]") %>% 
     html_text()
   players$country <- tm_player %>% 
@@ -58,7 +61,7 @@ start_url <- "http://www.transfermarkt.com/europameisterschaft-2016/startseite/p
 
 strttme <- now()
 
-tm_players <- read_html("http://www.transfermarkt.com/europameisterschaft-2016/startseite/pokalwettbewerb/EM16") %>% 
+tm_players <- read_html(start_url) %>% 
   html_nodes("td.links.no-border-links.hauptlink > a.vereinprofil_tooltip") %>% 
   html_attr("href") %>% 
   unique() %>%

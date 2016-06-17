@@ -10,7 +10,7 @@ library("stringr")
 # because some missing values were written in the table as "-"
 players <- fread("data/player_data.csv", na.strings=c("NA", "-")) 
 
-# This gets rid of all whitespaces and replaces them
+# This gets rid of all whitespaces (including '\n' and replaces them
 # with a single whitespace. This is mostly cosmetics 
 # and makes printing look nicer.
 for(cname in colnames(players)) {
@@ -41,6 +41,3 @@ for(cname in colnames(select(players, contains("date")))) {
 
 # save as new csv
 write.csv(players, "data/player_data_tidied.csv", row.names = FALSE)
-
-summary(players)
-

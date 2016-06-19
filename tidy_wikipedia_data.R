@@ -1,11 +1,3 @@
-setwd("~/Workspace/R/uefa2016")
-options(stringsAsFactors = F)
-library("tidyr")
-library("rvest")
-library("dplyr")
-library("data.table")
-library("lubridate")
-library("stringr")
 
 # Renaming the columns and dropping un-needed columns
 wikipedia_players <- fread("data/wikipedia_data.csv")

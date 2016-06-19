@@ -1,10 +1,3 @@
-setwd("~/Workspace/R/uefa2016")
-options(stringsAsFactors = F)
-library("tidyr")
-library("dplyr")
-library("data.table")
-library("lubridate")
-library("stringr")
 
 # Loading the data from disk passing a custom NA string, 
 # because some missing values were written in the table as "-"

@@ -1,10 +1,3 @@
-setwd("~/Workspace/R/uefa2016")
-options(stringsAsFactors = F)
-library("tidyr")
-library("dplyr")
-library("data.table")
-library("lubridate")
-library("stringr")
 
 # Joining the 2 data.tables proved to be much harder than expected. 
 # Since the transliteralisation (is that a word) of foreign names

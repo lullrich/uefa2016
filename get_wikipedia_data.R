@@ -1,25 +1,11 @@
-setwd("~/Workspace/R/uefa2016")
-options(stringsAsFactors = F)
-
-library("rvest")
-library("stringr")
-library("lubridate")
-library("data.table")
-
 # Turns out Wikipedia has a nice page with all the teams, too.
 # The format would be ideal - a table per team -, but to get the 
 # links for the players and clubs some additional scraping needs 
 # to be done.
+# This script uses data.table more. The same could have been 
+# achieved using dplyr.
 url <- "https://en.wikipedia.org/wiki/UEFA_Euro_2016_squads"
 wikipedia <- read_html(url)
-
-get_wikidata_link <- function (url) {
-  # A function to get the Wikidata URL for a player
-  wikidata_link <- read_html(url) %>% 
-    html_node("#t-wikibase > a") %>% 
-    html_attr("href")
-  wikidata_link
-}
 
 # The bulk of the information can be got from the tables
 wikipedia_players <- wikipedia %>% 
@@ -62,7 +48,9 @@ wikipedia_players[, name := wikipedia_player_name]
 wikipedia_players[, club := wikipedia_club_name]
 wikipedia_players[, club_url := wikipedia_club_url]
 
-# Getting the Wikidata links
+# Getting the Wikidata links. This visits every player page 
+# on Wikipedia to get the links. It is surprisingly fast
+# on my PC, taking only 1-2 minutes.
 st <- now()
 wikipedia_players[, wikidata_item := get_wikidata_link(player_url), by = player_url]
 et <- now()

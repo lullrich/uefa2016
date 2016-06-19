@@ -17,3 +17,4 @@ players <- fread("data/player_data_tidied.csv")
 tm_players <- fread("data/player_data_tm_tidied.csv")
 players_joined <- merge(players, tm_players, by = c("date_of_birth", "country"), suffixes = c("", "_tm")) %>% unique() %>% data.table()
 
+

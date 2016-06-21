@@ -1,0 +1,10 @@
+name: shiny_uefa
+account: lullrich
+server: shinyapps.io
+appId: 109869
+bundleId: 485636
+url: https://lullrich.shinyapps.io/shiny_uefa/
+when: 1466534928.98953
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: get_club_data.R|get_data.R|get_tm_data.R|get_wikipedia_data.R|join_player_data.R|plotting.R|setup.R|sparql_data.R|sparql_player_query.txt|test.R|tidy_data.R|tidy_tm_data.R|tidy_wikipedia_data.R|data/player_data.csv|data/player_data_tm.csv|data/wikipedia_data.csv

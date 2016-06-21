@@ -12,6 +12,8 @@ library("stringr")
 library("httr")
 library("jsonlite")
 
+wikidata_endpoint <- "https://query.wikidata.org/sparql"
+
 get_wikidata_link <- function (url) {
   # A function to get the Wikidata URL from
   # a Wikipedia page.

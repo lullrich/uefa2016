@@ -12,6 +12,16 @@ wikipedia_players <- wikipedia %>%
   html_nodes("table.sortable.wikitable") %>% 
   html_table() %>% 
   rbindlist()
+wikipedia_teams <- wikipedia %>% 
+  html_nodes("h3 > span.mw-headline") %>% 
+  html_text()
+wikipedia_country <- list() 
+
+for (i in wikipedia_teams[1:24]) {
+  wikipedia_country[i] <- list((rep(i, times = 23)))
+}
+wikipedia_country <- wikipedia_country %>% unlist()
+
 
 # Club names and links are in the last column of the 
 # tables. 
@@ -23,13 +33,15 @@ wikipedia_club_url <- wikipedia_club_links %>%
   unlist()
 wikipedia_club_name <- wikipedia_club_links %>% 
   html_text()
+wikipedia_club_name_detailed <- wikipedia_club_links %>% 
+  html_attr("title")
 
 # Getting the links to the player pages and the names. 
 # Both lists are too long by one because the '(captain)'
 # after the first team captain is a link too. 
 # We drop those to make the new columns fit the data.
 wikipedia_player_links <- wikipedia %>% 
-  html_nodes(".wikitable.plainrowheaders th[scope=row] a") 
+  html_nodes(".wikitable.plainrowheaders th[scope=row] a")
 wikipedia_player_name <- wikipedia_player_links %>% 
   html_attr("title") %>% 
   unique() %>% 
@@ -45,9 +57,9 @@ wikipedia_player_url <- wikipedia_player_links %>%
 # Adding it all to the data frame
 wikipedia_players[, player_url := wikipedia_player_url]
 wikipedia_players[, name := wikipedia_player_name]
-wikipedia_players[, club := wikipedia_club_name]
+wikipedia_players[, club_name_detailed := wikipedia_club_name_detailed]
 wikipedia_players[, club_url := wikipedia_club_url]
-
+wikipedia_players[, country := wikipedia_country]
 # Getting the Wikidata links. This visits every player page 
 # on Wikipedia to get the links. It is surprisingly fast
 # on my PC, taking only 1-2 minutes.

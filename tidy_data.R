@@ -1,7 +1,17 @@
+library("countrycode")
+library("plyr")
+
+# The league variable is stored in a 3 letter format that for the 
+# most part matches the IOC country codes from the countrycode package. 
+# The United Kingdom is coded as one though, because do not compete 
+# in the Olympics as 4 different countries. We have to manually add 
+# the codes for the 3 countries.
+GB <- data.frame(country.name = c("England", "Scotland", "Wales"), ioc = c("ENG", "SCO", "WAL"))
+countrycode_data <- rbind.fill(countrycode_data, GB)
 
 # Loading the data from disk passing a custom NA string, 
 # because some missing values were written in the table as "-"
-players <- fread("data/player_data.csv", na.strings=c("NA", "-")) 
+players <- fread("data/player_data.csv", na.strings=c("NA", "-", "()")) 
 
 # This gets rid of all whitespaces (including '\n' and replaces them
 # with a single whitespace. This is mostly cosmetics 
@@ -25,8 +35,9 @@ players <- players %>%
   mutate(last_appearance_location = str_replace_all(last_appearance_location, "\\)", "")) %>% 
   mutate(caps = as.numeric(caps)) %>% 
   mutate(goals = as.numeric(goals)) %>% 
-  mutate(goals_conceded = as.numeric(goals_conceded)) 
-  
+  mutate(goals_conceded = as.numeric(goals_conceded)) %>% 
+  mutate(league = countrycode(league, "ioc", "country.name", warn = TRUE))
+
 # Convert all date columns into dates
 for(cname in colnames(select(players, contains("date")))) {
   set(players, j = cname, value = dmy(players[[cname]]))

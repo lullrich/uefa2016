@@ -39,7 +39,4 @@ res <- GET(wikidata_endpoint, query = list(query = query)) %>%
 clubs_data <- res$results$bindings
 clubs_data <- clubs_data[, str_detect(colnames(clubs_data), "value")] %>% data.table()
 clubs_data[, club_wikidata_id := str_extract(team.value, "Q.*")]
-tm_player_data <- fread("data/player_data_tm_tidied.csv")
-test <- inner_join(wikipedia_players, clubs_data, by = "club_wikidata_id")
-test2 <- merge(tm_player_data, test, by = c("name", "date_of_birth"))
-
+write(query, "query.txt")

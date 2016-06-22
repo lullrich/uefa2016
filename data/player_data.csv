@@ -1,13 +1,13 @@
 "name","country","position","date_of_birth__age_","caps","goals_conceded","senior_debut","last_appearance","club","height","weight","id","team_id","detailed_position","goals"
-"Hugo Lloris","France","Goalkeeper","26/12/1986 (29)","77","55","19/11/2008: 
+"Hugo Lloris","France","Goalkeeper","26/12/1986 (29)","78","55","19/11/2008: 
           France
           0-0
           Uruguay
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Tottenham (ENG)","188cm","73kg","93846","43","Goalkeeper",NA
+          (Lille Métropole)","Tottenham (ENG)","188cm","73kg","93846","43","Goalkeeper",NA
 "Steve Mandanda","France","Goalkeeper","28/03/1985 (31)","22","25","27/05/2008: 
           France
           2-0
@@ -26,24 +26,24 @@
           2-3
           France
           (Amsterdam)","Lyon (FRA)","178cm","70kg","1901367","43","Full-back","1"
-"Patrice Evra","France","Defender","15/05/1981 (35)","75",NA,"18/08/2004: 
+"Patrice Evra","France","Defender","15/05/1981 (35)","76",NA,"18/08/2004: 
           France
           1-1
           Bosnia and Herzegovina
-          (Rennes)","15/06/2016:
+          (Rennes)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Juventus (ITA)","174cm","74kg","68468","43","Full-back","0"
-"Adil Rami","France","Defender","27/12/1985 (30)","30",NA,"11/08/2010: 
+          (Lille Métropole)","Juventus (ITA)","174cm","74kg","68468","43","Full-back","0"
+"Adil Rami","France","Defender","27/12/1985 (30)","31",NA,"11/08/2010: 
           Norway
           2-1
           France
-          (Oslo)","15/06/2016:
+          (Oslo)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Sevilla (ESP)","190cm","90kg","1909693","43","Central defender","1"
+          (Lille Métropole)","Sevilla (ESP)","190cm","90kg","1909693","43","Central defender","1"
 "Eliaquim Mangala","France","Defender","13/02/1991 (25)","7",NA,"05/06/2013: 
           Uruguay
           1-0
@@ -61,24 +61,24 @@
           3-0
           Scotland
           (Metz)","Roma (ITA)","178cm","74kg","250014002","43","Full-back","0"
-"Bacary Sagna","France","Defender","14/02/1983 (33)","59",NA,"22/08/2007: 
+"Bacary Sagna","France","Defender","14/02/1983 (33)","60",NA,"22/08/2007: 
           Slovakia
           0-1
           France
-          (Trnava)","15/06/2016:
+          (Trnava)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Man. City (ENG)","176cm","72kg","72795","43","Full-back","0"
-"Laurent Koscielny","France","Defender","10/09/1985 (30)","31",NA,"11/11/2011: 
+          (Lille Métropole)","Man. City (ENG)","176cm","72kg","72795","43","Full-back","0"
+"Laurent Koscielny","France","Defender","10/09/1985 (30)","32",NA,"11/11/2011: 
           France
           1-0
           USA
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Arsenal (ENG)","186cm","75kg","250018623","43","Central defender","1"
+          (Lille Métropole)","Arsenal (ENG)","186cm","75kg","250018623","43","Central defender","1"
 "Samuel Umtiti","France","Defender","14/11/1993 (22)","0",NA,"-","-","Lyon (FRA)","180cm","75kg","250014003","43","Central defender","0"
 "N'Golo Kanté","France","Midfield","29/03/1991 (25)","6",NA,"25/03/2016: 
           Netherlands
@@ -89,24 +89,24 @@
           2-0
           Albania
           (Marseille)","Leicester (ENG)","169cm","68kg","250097248","43","Defensive midfielder","1"
-"Yohan Cabaye","France","Midfield","14/01/1986 (30)","46",NA,"11/08/2010: 
+"Yohan Cabaye","France","Midfield","14/01/1986 (30)","47",NA,"11/08/2010: 
           Norway
           2-1
           France
-          (Oslo)","04/06/2016:
+          (Oslo)","19/06/2016:
+          Switzerland
+          0-0
           France
-          3-0
-          Scotland
-          (Metz)","Crystal Palace (ENG)","174cm","71kg","96016","43","Defensive midfielder","4"
-"Dimitri Payet","France","Midfield","29/03/1987 (29)","21",NA,"09/10/2010: 
+          (Lille Métropole)","Crystal Palace (ENG)","174cm","71kg","96016","43","Defensive midfielder","4"
+"Dimitri Payet","France","Midfield","29/03/1987 (29)","22",NA,"09/10/2010: 
           France
           2-0
           Romania
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","West Ham (ENG)","175cm","77kg","1901409","43","Attacking midfielder","5"
+          (Lille Métropole)","West Ham (ENG)","175cm","77kg","1901409","43","Attacking midfielder","5"
 "Morgan Schneiderlin","France","Midfield","08/11/1989 (26)","15",NA,"08/06/2014: 
           France
           8-0
@@ -115,51 +115,51 @@
           England
           2-0
           France","Man. United (ENG)","180cm","75kg","103891","43","Central midfielder","0"
-"Blaise Matuidi","France","Midfield","09/04/1987 (29)","46",NA,"07/09/2010: 
+"Blaise Matuidi","France","Midfield","09/04/1987 (29)","47",NA,"07/09/2010: 
           Bosnia and Herzegovina
           0-2
           France
-          (Sarajevo)","15/06/2016:
+          (Sarajevo)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Paris (FRA)","175cm","70kg","103546","43","Defensive midfielder","8"
-"Paul Pogba","France","Midfield","15/03/1993 (23)","33",NA,"22/03/2013: 
+          (Lille Métropole)","Paris (FRA)","175cm","70kg","103546","43","Defensive midfielder","8"
+"Paul Pogba","France","Midfield","15/03/1993 (23)","34",NA,"22/03/2013: 
           France
           3-1
           Georgia
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Juventus (ITA)","191cm","84kg","250015808","43","Central midfielder","5"
-"Moussa Sissoko","France","Midfield","16/08/1989 (26)","39",NA,"10/10/2009: 
+          (Lille Métropole)","Juventus (ITA)","191cm","84kg","250015808","43","Central midfielder","5"
+"Moussa Sissoko","France","Midfield","16/08/1989 (26)","40",NA,"10/10/2009: 
           France
           5-0
           Faroe Islands
-          (Guingamp)","10/06/2016:
+          (Guingamp)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-1
-          Romania
-          (Saint-Denis)","Newcastle (ENG)","187cm","83kg","103722","43","Central midfielder","1"
-"Kingsley Coman","France","Midfield","13/06/1996 (20)","7",NA,"13/11/2015: 
+          (Lille Métropole)","Newcastle (ENG)","187cm","83kg","103722","43","Central midfielder","1"
+"Kingsley Coman","France","Midfield","13/06/1996 (20)","8",NA,"13/11/2015: 
           France
           2-0
           Germany
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Bayern (GER)","178cm","71kg","250054949","43","Winger","1"
-"Antoine Griezmann","France","Forward","21/03/1991 (25)","29",NA,"05/03/2014: 
+          (Lille Métropole)","Bayern (GER)","178cm","71kg","250054949","43","Winger","1"
+"Antoine Griezmann","France","Forward","21/03/1991 (25)","30",NA,"05/03/2014: 
           France
           2-0
           Netherlands
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Atlético (ESP)","176cm","67kg","250019498","43","Winger","8"
+          (Lille Métropole)","Atlético (ESP)","176cm","67kg","250019498","43","Winger","8"
 "Olivier Giroud","France","Forward","30/09/1986 (29)","51",NA,"11/11/2011: 
           France
           1-0
@@ -169,15 +169,15 @@
           2-0
           Albania
           (Marseille)","Arsenal (ENG)","192cm","88kg","250020851","43","Forward","18"
-"André-Pierre Gignac","France","Forward","05/12/1985 (30)","28",NA,"01/04/2009: 
+"André-Pierre Gignac","France","Forward","05/12/1985 (30)","29",NA,"01/04/2009: 
           France
           1-0
           Lithuania
-          (Saint-Denis)","15/06/2016:
+          (Saint-Denis)","19/06/2016:
+          Switzerland
+          0-0
           France
-          2-0
-          Albania
-          (Marseille)","Tigres (MEX)","187cm","84kg","1901369","43","Forward","7"
+          (Lille Métropole)","Tigres (MEX)","187cm","84kg","1901369","43","Forward","7"
 "Anthony Martial","France","Forward","05/12/1995 (20)","11",NA,"04/09/2015: 
           Portugal
           0-1
@@ -187,14 +187,14 @@
           2-0
           Albania
           (Marseille)","Man. United (ENG)","181cm","76kg","250042781","43","Winger","0"
-"Yann Sommer","Switzerland","Goalkeeper","17/12/1988 (27)","20","17","30/05/2012: 
+"Yann Sommer","Switzerland","Goalkeeper","17/12/1988 (27)","21","17","30/05/2012: 
           Switzerland
           0-1
-          Romania","15/06/2016:
-          Romania
-          1-1
+          Romania","19/06/2016:
           Switzerland
-          (Paris)","Mönchengladbach (GER)","183cm","79kg","97746","128","Goalkeeper",NA
+          0-0
+          France
+          (Lille Métropole)","Mönchengladbach (GER)","183cm","79kg","97746","128","Goalkeeper",NA
 "Marwin Hitz","Switzerland","Goalkeeper","18/09/1987 (28)","2","0","10/06/2015: 
           Switzerland
           3-0
@@ -213,16 +213,16 @@
           2-1
           Moldova
           (Lugano)","Dortmund (GER)","187cm","85kg","1904011","128","Goalkeeper",NA
-"Stephan Lichtsteiner","Switzerland","Defender","16/01/1984 (32)","83",NA,"15/11/2006: 
+"Stephan Lichtsteiner","Switzerland","Defender","16/01/1984 (32)","84",NA,"15/11/2006: 
           Switzerland
           1-2
           Brazil
-          (Basel)","15/06/2016:
-          Romania
-          1-1
+          (Basel)","19/06/2016:
           Switzerland
-          (Paris)","Juventus (ITA)","182cm","75kg","56942","128","Full-back","5"
-"François Moubandje","Switzerland","Defender","21/06/1990 (25)","11",NA,"15/11/2014: 
+          0-0
+          France
+          (Lille Métropole)","Juventus (ITA)","182cm","75kg","56942","128","Full-back","5"
+"François Moubandje","Switzerland","Defender","21/06/1990 (26)","11",NA,"15/11/2014: 
           Switzerland
           4-0
           Lithuania
@@ -248,42 +248,42 @@
           2-1
           Moldova
           (Lugano)","Young Boys (SUI)","182cm","79kg","62652","128","Central defender","0"
-"Michael Lang","Switzerland","Defender","08/02/1991 (25)","18",NA,"14/08/2013: 
+"Michael Lang","Switzerland","Defender","08/02/1991 (25)","19",NA,"14/08/2013: 
           Switzerland
           1-0
           Brazil
-          (Basel)","15/06/2016:
-          Romania
-          1-1
+          (Basel)","19/06/2016:
           Switzerland
-          (Paris)","Basel (SUI)","185cm","79kg","1905346","128","Full-back","2"
-"Ricardo Rodríguez","Switzerland","Defender","25/08/1992 (23)","39",NA,"07/10/2011: 
+          0-0
+          France
+          (Lille Métropole)","Basel (SUI)","185cm","79kg","1905346","128","Full-back","2"
+"Ricardo Rodríguez","Switzerland","Defender","25/08/1992 (23)","40",NA,"07/10/2011: 
           Wales
           2-0
           Switzerland
-          (Swansea)","15/06/2016:
-          Romania
-          1-1
+          (Swansea)","19/06/2016:
           Switzerland
-          (Paris)","Wolfsburg (GER)","181cm","77kg","250011089","128","Full-back","0"
-"Johan Djourou","Switzerland","Defender","18/01/1987 (29)","62",NA,"01/03/2006: 
+          0-0
+          France
+          (Lille Métropole)","Wolfsburg (GER)","181cm","77kg","250011089","128","Full-back","0"
+"Johan Djourou","Switzerland","Defender","18/01/1987 (29)","63",NA,"01/03/2006: 
           Scotland
           1-3
           Switzerland
-          (Glasgow)","15/06/2016:
-          Romania
-          1-1
+          (Glasgow)","19/06/2016:
           Switzerland
-          (Paris)","Hamburg (GER)","191cm","87kg","67173","128","Central defender","2"
-"Fabian Schär","Switzerland","Defender","20/12/1991 (24)","22",NA,"14/08/2013: 
+          0-0
+          France
+          (Lille Métropole)","Hamburg (GER)","191cm","87kg","67173","128","Central defender","2"
+"Fabian Schär","Switzerland","Defender","20/12/1991 (24)","23",NA,"14/08/2013: 
           Switzerland
           1-0
           Brazil
-          (Basel)","15/06/2016:
-          Romania
-          1-1
+          (Basel)","19/06/2016:
           Switzerland
-          (Paris)","Hoffenheim (GER)","186cm","84kg","250050401","128","Central defender","6"
+          0-0
+          France
+          (Lille Métropole)","Hoffenheim (GER)","186cm","84kg","250050401","128","Central defender","6"
 "Fabian Frei","Switzerland","Midfield","08/01/1989 (27)","9",NA,"07/10/2011: 
           Wales
           2-0
@@ -293,24 +293,24 @@
           0-1
           Switzerland
           (Lens Agglo)","Mainz (GER)","182cm","77kg","102128","128","Central midfielder","1"
-"Granit Xhaka","Switzerland","Midfield","27/09/1992 (23)","45",NA,"04/06/2011: 
+"Granit Xhaka","Switzerland","Midfield","27/09/1992 (23)","46",NA,"04/06/2011: 
           England
           2-2
           Switzerland
-          (London)","15/06/2016:
-          Romania
-          1-1
+          (London)","19/06/2016:
           Switzerland
-          (Paris)","Mönchengladbach (GER)","185cm","82kg","250004721","128","Central midfielder","6"
-"Valon Behrami","Switzerland","Midfield","19/04/1985 (31)","68",NA,"08/10/2005: 
+          0-0
+          France
+          (Lille Métropole)","Mönchengladbach (GER)","185cm","82kg","250004721","128","Central midfielder","6"
+"Valon Behrami","Switzerland","Midfield","19/04/1985 (31)","69",NA,"08/10/2005: 
           Switzerland
           1-1
           France
-          (Berne)","15/06/2016:
-          Romania
-          1-1
+          (Berne)","19/06/2016:
           Switzerland
-          (Paris)","Watford (ENG)","185cm","78kg","69153","128","Defensive midfielder","2"
+          0-0
+          France
+          (Lille Métropole)","Watford (ENG)","185cm","78kg","69153","128","Defensive midfielder","2"
 "Denis Zakaria","Switzerland","Midfield","20/11/1996 (19)","2",NA,"28/05/2016: 
           Switzerland
           1-2
@@ -320,49 +320,49 @@
           2-1
           Moldova
           (Lugano)","Young Boys (SUI)","191cm","76kg","250079677","128","Defensive midfielder","0"
-"Blerim Džemaili","Switzerland","Midfield","12/04/1986 (30)","50",NA,"01/03/2006: 
+"Blerim Džemaili","Switzerland","Midfield","12/04/1986 (30)","51",NA,"01/03/2006: 
           Scotland
           1-3
           Switzerland
-          (Glasgow)","15/06/2016:
-          Romania
-          1-1
+          (Glasgow)","19/06/2016:
           Switzerland
-          (Paris)","Genoa (ITA)","179cm","73kg","94099","128","Central midfielder","6"
-"Gelson Fernandes","Switzerland","Midfield","02/09/1986 (29)","57",NA,"22/08/2007: 
+          0-0
+          France
+          (Lille Métropole)","Genoa (ITA)","179cm","73kg","94099","128","Central midfielder","6"
+"Gelson Fernandes","Switzerland","Midfield","02/09/1986 (29)","58",NA,"22/08/2007: 
           Switzerland
           2-1
           Netherlands
-          (Geneva)","11/06/2016:
-          Albania
-          0-1
+          (Geneva)","19/06/2016:
           Switzerland
-          (Lens Agglo)","Rennes (FRA)","179cm","70kg","94100","128","Defensive midfielder","2"
-"Xherdan Shaqiri","Switzerland","Midfield","10/10/1991 (24)","55",NA,"03/03/2010: 
+          0-0
+          France
+          (Lille Métropole)","Rennes (FRA)","179cm","70kg","94100","128","Defensive midfielder","2"
+"Xherdan Shaqiri","Switzerland","Midfield","10/10/1991 (24)","56",NA,"03/03/2010: 
           Switzerland
           1-3
-          Uruguay","15/06/2016:
-          Romania
-          1-1
+          Uruguay","19/06/2016:
           Switzerland
-          (Paris)","Stoke (ENG)","169cm","72kg","1905360","128","Winger","17"
-"Breel Embolo","Switzerland","Forward","14/02/1997 (19)","12",NA,"31/03/2015: 
+          0-0
+          France
+          (Lille Métropole)","Stoke (ENG)","169cm","72kg","1905360","128","Winger","17"
+"Breel Embolo","Switzerland","Forward","14/02/1997 (19)","13",NA,"31/03/2015: 
           Switzerland
           1-1
-          USA","15/06/2016:
-          Romania
-          1-1
+          USA","19/06/2016:
           Switzerland
-          (Paris)","Basel (SUI)","185cm","84kg","250064274","128","Forward","1"
-"Haris Seferović","Switzerland","Forward","22/02/1992 (24)","32",NA,"06/02/2013: 
+          0-0
+          France
+          (Lille Métropole)","Basel (SUI)","185cm","84kg","250064274","128","Forward","1"
+"Haris Seferović","Switzerland","Forward","22/02/1992 (24)","33",NA,"06/02/2013: 
           Greece
           0-0
           Switzerland
-          (Piraeus)","15/06/2016:
-          Romania
-          1-1
+          (Piraeus)","19/06/2016:
           Switzerland
-          (Paris)","Frankfurt (GER)","185cm","85kg","250002548","128","Forward","7"
+          0-0
+          France
+          (Lille Métropole)","Frankfurt (GER)","185cm","85kg","250002548","128","Forward","7"
 "Shani Tarashaj","Switzerland","Forward","07/02/1995 (21)","5",NA,"25/03/2016: 
           Republic of Ireland
           1-0
@@ -372,15 +372,15 @@
           1-1
           Switzerland
           (Paris)","Grasshoppers (SUI)","176cm","77kg","250041760","128","Forward","0"
-"Admir Mehmedi","Switzerland","Forward","16/03/1991 (25)","44",NA,"04/06/2011: 
+"Admir Mehmedi","Switzerland","Forward","16/03/1991 (25)","45",NA,"04/06/2011: 
           England
           2-2
           Switzerland
-          (London)","15/06/2016:
-          Romania
-          1-1
+          (London)","19/06/2016:
           Switzerland
-          (Paris)","Leverkusen (GER)","183cm","81kg","1905353","128","Forward","5"
+          0-0
+          France
+          (Lille Métropole)","Leverkusen (GER)","183cm","81kg","1905353","128","Forward","5"
 "Eren Derdiyok","Switzerland","Forward","12/06/1988 (28)","52",NA,"06/02/2008: 
           England
           2-1
@@ -390,217 +390,14 @@
           2-1
           Moldova
           (Lugano)","Kasımpaşa (TUR)","191cm","90kg","108207","128","Forward","10"
-"Costel Pantilimon","Romania","Goalkeeper","01/02/1987 (29)","21","18","19/11/2008: 
-          Romania
-          2-1
-          Georgia
-          (Bucharest)","25/05/2016:
-          DR Congo
-          1-1
-          Romania
-          (Como)","Watford (ENG)","203cm","96kg","74647","113","Goalkeeper",NA
-"Ciprian Tătăruşanu","Romania","Goalkeeper","09/02/1986 (30)","39","26","17/11/2010: 
-          Romania
-          1-1
-          Italy","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Fiorentina (ITA)","195cm","88kg","1902645","113","Goalkeeper",NA
-"Silviu Lung","Romania","Goalkeeper","04/06/1989 (27)","3","2","05/06/2010: 
-          Romania
-          3-0
-          Honduras
-          (St. Veit an der Glan)","04/06/2014:
-          Algeria
-          2-1
-          Romania
-          (Geneva)","Astra (ROU)","189cm","78kg","250007246","113","Goalkeeper",NA
-"Alexandru Măţel","Romania","Defender","17/10/1989 (26)","16",NA,"02/09/2011: 
-          Luxembourg
-          0-2
-          Romania
-          (Luxembourg)","29/05/2016:
-          Romania
-          3-4
-          Ukraine
-          (Turin)","Dinamo Zagreb (CRO)","177cm","72kg","104663","113","Full-back","0"
-"Răzvan Raţ","Romania","Defender","26/05/1981 (35)","113",NA,"13/02/2002: 
-          France
-          2-1
-          Romania
-          (Saint-Denis)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Rayo Vallecano (ESP)","178cm","72kg","41544","113","Full-back","2"
-"Cosmin Moţi","Romania","Defender","03/12/1984 (31)","8",NA,"06/02/2008: 
-          Israel
-          1-0
-          Romania
-          (Ramat Gan)","03/06/2016:
-          Romania
-          5-1
-          Georgia
-          (Bucharest)","Ludogorets (BUL)","183cm","74kg","95343","113","Central defender","0"
-"Vlad Chiricheş","Romania","Defender","14/11/1989 (26)","43",NA,"10/08/2011: 
-          San Marino
-          0-1
-          Romania
-          (Serravalle)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Napoli (ITA)","184cm","75kg","250012057","113","Central defender","0"
-"Valerică Găman","Romania","Defender","25/02/1989 (27)","14",NA,"11/11/2011: 
-          Belgium
-          2-1
-          Romania
-          (Liege)","25/05/2016:
-          DR Congo
-          1-1
-          Romania
-          (Como)","Astra (ROU)","188cm","72kg","250006722","113","Central defender","1"
-"Steliano Filip","Romania","Defender","15/05/1994 (22)","5",NA,"17/11/2015: 
-          Italy
-          2-2
-          Romania","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Dinamo Bucureşti (ROU)","177cm","73kg","250027053","113","Full-back","0"
-"Dragoş Grigore","Romania","Defender","07/09/1986 (29)","22",NA,"09/02/2011: 
-          Cyprus
-          1-1
-          Romania","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Al-Sailiya (QAT)","185cm","76kg","250011636","113","Central defender","0"
-"Cristian Săpunaru","Romania","Defender","05/04/1984 (32)","15",NA,"31/05/2008: 
-          Romania
-          4-0
-          Montenegro
-          (Bucharest)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Pandurii (ROU)","187cm","81kg","105556","113","Central defender","0"
-"Ovidiu Hoban","Romania","Midfield","27/12/1982 (33)","22",NA,"04/06/2013: 
-          Romania
-          4-0
-          Trinidad and Tobago","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","H. Beer-Sheva (ISR)","182cm","80kg","250030842","113","Central midfielder","1"
-"Alexandru Chipciu","Romania","Midfield","18/05/1989 (27)","24",NA,"10/08/2011: 
-          San Marino
-          0-1
-          Romania
-          (Serravalle)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Steaua (ROU)","177cm","74kg","103854","113","Forward","3"
-"Mihai Pintilii","Romania","Midfield","09/11/1984 (31)","34",NA,"10/08/2011: 
-          San Marino
-          0-1
-          Romania
-          (Serravalle)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Steaua (ROU)","180cm","78kg","250039882","113","Central midfielder","1"
-"Nicolae Stanciu","Romania","Midfield","07/05/1993 (23)","6",NA,"23/03/2016: 
-          Romania
-          1-0
-          Lithuania
-          (Giurgiu)","10/06/2016:
-          France
-          2-1
-          Romania
-          (Saint-Denis)","Steaua (ROU)","170cm","69kg","250035735","113","Attacking midfielder","4"
-"Gabriel Torje","Romania","Midfield","22/11/1989 (26)","53",NA,"03/09/2010: 
-          Romania
-          1-1
-          Albania
-          (Piatra Neamt)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Osmanlıspor (TUR)","168cm","71kg","103292","113","Winger","12"
-"Lucian Sânmărtean","Romania","Midfield","13/03/1980 (36)","20",NA,"20/11/2002: 
-          Romania
-          0-1
-          Croatia
-          (Timisoara)","03/06/2016:
-          Romania
-          5-1
-          Georgia
-          (Bucharest)","Al-Ittihad (KSA)","175cm","70kg","56262","113","Attacking midfielder","0"
-"Andrei Prepeliţă","Romania","Midfield","08/12/1985 (30)","11",NA,"07/09/2014: 
-          Greece
-          0-1
-          Romania
-          (Piraeus)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Ludogorets (BUL)","178cm","79kg","72354","113","Central midfielder","0"
-"Adrian Popa","Romania","Midfield","24/07/1988 (27)","15",NA,"16/10/2012: 
-          Romania
-          1-4
-          Netherlands
-          (Bucharest)","10/06/2016:
-          France
-          2-1
-          Romania
-          (Saint-Denis)","Steaua (ROU)","169cm","71kg","250053934","113","Winger","1"
-"Denis Alibec","Romania","Forward","05/01/1991 (25)","5",NA,"11/10/2015: 
-          Faroe Islands
-          0-3
-          Romania
-          (Torshavn)","10/06/2016:
-          France
-          2-1
-          Romania
-          (Saint-Denis)","Astra (ROU)","187cm","77kg","1908272","113","Forward","1"
-"Claudiu Keșerü","Romania","Forward","02/12/1986 (29)","14",NA,"11/10/2013: 
-          Andorra
-          0-4
-          Romania
-          (Andorra la Vella)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Ludogorets (BUL)","178cm","71kg","67607","113","Forward","5"
-"Florin Andone","Romania","Forward","11/04/1993 (23)","8",NA,"13/06/2015: 
-          Northern Ireland
-          0-0
-          Romania
-          (Belfast)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Córdoba (ESP)","182cm","78kg","250050387","113","Forward","1"
-"Bogdan Stancu","Romania","Forward","28/06/1987 (28)","43",NA,"11/08/2010: 
-          Turkey
-          2-0
-          Romania
-          (Istanbul)","15/06/2016:
-          Romania
-          1-1
-          Switzerland
-          (Paris)","Gençlerbirliği (TUR)","183cm","75kg","1902650","113","Forward","11"
-"Etrit Berisha","Albania","Goalkeeper","10/03/1989 (27)","36","28","27/05/2012: 
+"Etrit Berisha","Albania","Goalkeeper","10/03/1989 (27)","37","28","27/05/2012: 
           Albania
           1-0
-          Iran","15/06/2016:
-          France
-          2-0
+          Iran","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Lazio (ITA)","194cm","92kg","250001606","2","Goalkeeper",NA
+          (Lyon)","Lazio (ITA)","194cm","92kg","250001606","2","Goalkeeper",NA
 "Orges Shehi","Albania","Goalkeeper","25/09/1977 (38)","7","1","17/11/2010: 
           Albania
           0-0
@@ -617,24 +414,24 @@
           Albania
           2-2
           Georgia","Partizani (ALB)","188cm","79kg","103437","2","Goalkeeper",NA
-"Andi Lila","Albania","Defender","12/02/1986 (30)","58",NA,"21/11/2007: 
+"Andi Lila","Albania","Defender","12/02/1986 (30)","59",NA,"21/11/2007: 
           Romania
           6-1
           Albania
-          (Bucharest)","15/06/2016:
-          France
-          2-0
+          (Bucharest)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Giannina (GRE)","184cm","79kg","62091","2","Full-back","0"
-"Elseid Hysaj","Albania","Defender","20/02/1994 (22)","21",NA,"06/02/2013: 
+          (Lyon)","Giannina (GRE)","184cm","79kg","62091","2","Full-back","0"
+"Elseid Hysaj","Albania","Defender","20/02/1994 (22)","22",NA,"06/02/2013: 
           Albania
           1-2
           Georgia
-          (Tirana)","15/06/2016:
-          France
-          2-0
+          (Tirana)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Napoli (ITA)","182cm","70kg","250023520","2","Full-back","0"
+          (Lyon)","Napoli (ITA)","182cm","70kg","250023520","2","Full-back","0"
 "Frédéric Veseli","Albania","Defender","20/11/1992 (23)","3",NA,"16/11/2015: 
           Albania
           2-2
@@ -643,23 +440,23 @@
           2-0
           Albania
           (Marseille)","Lugano (SUI)","183cm","80kg","250004718","2","Central defender","0"
-"Ansi Agolli","Albania","Defender","11/10/1982 (33)","63",NA,"03/09/2005: 
+"Ansi Agolli","Albania","Defender","11/10/1982 (33)","64",NA,"03/09/2005: 
           Albania
           2-1
           Kazakhstan
-          (Tirana)","15/06/2016:
-          France
-          2-0
+          (Tirana)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Qarabağ (AZE)","179cm","70kg","54932","2","Full-back","2"
-"Mërgim Mavraj","Albania","Defender","09/06/1986 (30)","28",NA,"22/05/2012: 
+          (Lyon)","Qarabağ (AZE)","179cm","70kg","54932","2","Full-back","2"
+"Mërgim Mavraj","Albania","Defender","09/06/1986 (30)","29",NA,"22/05/2012: 
           Qatar
           1-2
-          Albania","15/06/2016:
-          France
-          2-0
+          Albania","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Köln (GER)","189cm","84kg","250008364","2","Central defender","3"
+          (Lyon)","Köln (GER)","189cm","84kg","250008364","2","Central defender","3"
 "Naser Aliji","Albania","Defender","27/12/1993 (22)","4",NA,"13/06/2015: 
           Albania
           1-0
@@ -669,51 +466,51 @@
           3-1
           Qatar
           (Hartberg)","Basel (SUI)","177cm","73kg","250061470","2","Central defender","0"
-"Arlind Ajeti","Albania","Defender","25/09/1993 (22)","10",NA,"14/11/2014: 
+"Arlind Ajeti","Albania","Defender","25/09/1993 (22)","11",NA,"14/11/2014: 
           France
           1-1
           Albania
-          (Rennes)","15/06/2016:
-          France
-          2-0
+          (Rennes)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Frosinone (ITA)","185cm","81kg","250016842","2","Central defender","1"
-"Ermir Lenjani","Albania","Midfield","05/08/1989 (26)","20",NA,"15/11/2013: 
+          (Lyon)","Frosinone (ITA)","185cm","81kg","250016842","2","Central defender","1"
+"Ermir Lenjani","Albania","Midfield","05/08/1989 (26)","21",NA,"15/11/2013: 
           Belarus
           0-0
           Albania
-          (Antalya)","15/06/2016:
-          France
-          2-0
+          (Antalya)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Nantes (FRA)","175cm","65kg","250021366","2","Winger","3"
-"Lorik Cana","Albania","Midfield","27/07/1983 (32)","91",NA,"11/06/2003: 
+          (Lyon)","Nantes (FRA)","175cm","65kg","250021366","2","Winger","3"
+"Lorik Cana","Albania","Midfield","27/07/1983 (32)","92",NA,"11/06/2003: 
           Switzerland
           3-2
           Albania
-          (Geneva)","11/06/2016:
-          Albania
+          (Geneva)","19/06/2016:
+          Romania
           0-1
-          Switzerland
-          (Lens Agglo)","Nantes (FRA)","186cm","77kg","66720","2","Central defender","1"
-"Migjen Basha","Albania","Midfield","05/01/1987 (29)","18",NA,"22/03/2013: 
+          Albania
+          (Lyon)","Nantes (FRA)","186cm","77kg","66720","2","Central defender","1"
+"Migjen Basha","Albania","Midfield","05/01/1987 (29)","19",NA,"22/03/2013: 
           Norway
           0-1
           Albania
-          (Oslo)","03/06/2016:
+          (Oslo)","19/06/2016:
+          Romania
+          0-1
           Albania
-          1-3
-          Ukraine
-          (Bergamo)","Como (ITA)","180cm","72kg","103087","2","Central midfielder","3"
-"Ledian Memushaj","Albania","Midfield","17/12/1986 (29)","14",NA,"17/11/2010: 
+          (Lyon)","Como (ITA)","180cm","72kg","103087","2","Central midfielder","3"
+"Ledian Memushaj","Albania","Midfield","17/12/1986 (29)","15",NA,"17/11/2010: 
           Albania
           0-0
           FYR Macedonia
-          (Korca)","15/06/2016:
-          France
-          2-0
+          (Korca)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Pescara (ITA)","175cm","71kg","250039143","2","Attacking midfielder","0"
+          (Lyon)","Pescara (ITA)","175cm","71kg","250039143","2","Attacking midfielder","0"
 "Burim Kukeli","Albania","Midfield","16/01/1984 (32)","17",NA,"07/09/2012: 
           Albania
           3-1
@@ -741,32 +538,32 @@
           0-1
           Switzerland
           (Lens Agglo)","PAOK (GRE)","170cm","62kg","250029557","2","Defensive midfielder","2"
-"Odise Roshi","Albania","Midfield","22/05/1991 (25)","33",NA,"07/10/2011: 
+"Odise Roshi","Albania","Midfield","22/05/1991 (25)","34",NA,"07/10/2011: 
           France
           3-0
           Albania
-          (Saint-Denis)","15/06/2016:
-          France
-          2-0
+          (Saint-Denis)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Rijeka (CRO)","187cm","78kg","108488","2","Winger","1"
-"Amir Abrashi","Albania","Midfield","27/03/1990 (26)","20",NA,"14/08/2013: 
+          (Lyon)","Rijeka (CRO)","187cm","78kg","108488","2","Winger","1"
+"Amir Abrashi","Albania","Midfield","27/03/1990 (26)","21",NA,"14/08/2013: 
           Albania
           2-0
           Armenia
-          (Tirana)","15/06/2016:
-          France
-          2-0
+          (Tirana)","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Freiburg (GER)","172cm","71kg","250005185","2","Central midfielder","0"
-"Armando Sadiku","Albania","Forward","27/05/1991 (25)","21",NA,"29/02/2012: 
+          (Lyon)","Freiburg (GER)","172cm","71kg","250005185","2","Central midfielder","0"
+"Armando Sadiku","Albania","Forward","27/05/1991 (25)","22",NA,"29/02/2012: 
           Georgia
           2-1
-          Albania","15/06/2016:
-          France
-          2-0
+          Albania","19/06/2016:
+          Romania
+          0-1
           Albania
-          (Marseille)","Vaduz (LIE)","185cm","80kg","250014647","2","Forward","5"
+          (Lyon)","Vaduz (LIE)","185cm","80kg","250014647","2","Forward","6"
 "Shkëlzen Gashi","Albania","Forward","15/07/1988 (27)","14",NA,"14/08/2013: 
           Albania
           2-0
@@ -785,23 +582,430 @@
           0-1
           Switzerland
           (Lens Agglo)","İstanbul Başakşehir (TUR)","185cm","79kg","250005325","2","Forward","2"
-"Bekim Balaj","Albania","Forward","11/01/1991 (25)","15",NA,"14/11/2012: 
+"Bekim Balaj","Albania","Forward","11/01/1991 (25)","16",NA,"14/11/2012: 
           Albania
           0-0
-          Cameroon","03/06/2016:
+          Cameroon","19/06/2016:
+          Romania
+          0-1
           Albania
-          1-3
-          Ukraine
-          (Bergamo)","Rijeka (CRO)","188cm","80kg","250002979","2","Forward","1"
-"Joe Hart","England","Goalkeeper","19/04/1987 (29)","61","42","01/06/2008: 
-          Trinidad and Tobago
+          (Lyon)","Rijeka (CRO)","188cm","80kg","250002979","2","Forward","1"
+"Costel Pantilimon","Romania","Goalkeeper","01/02/1987 (29)","21","18","19/11/2008: 
+          Romania
+          2-1
+          Georgia
+          (Bucharest)","25/05/2016:
+          DR Congo
+          1-1
+          Romania
+          (Como)","Watford (ENG)","203cm","96kg","74647","113","Goalkeeper",NA
+"Ciprian Tătăruşanu","Romania","Goalkeeper","09/02/1986 (30)","40","27","17/11/2010: 
+          Romania
+          1-1
+          Italy","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Fiorentina (ITA)","195cm","88kg","1902645","113","Goalkeeper",NA
+"Silviu Lung","Romania","Goalkeeper","04/06/1989 (27)","3","2","05/06/2010: 
+          Romania
+          3-0
+          Honduras
+          (St. Veit an der Glan)","04/06/2014:
+          Algeria
+          2-1
+          Romania
+          (Geneva)","Astra (ROU)","189cm","78kg","250007246","113","Goalkeeper",NA
+"Alexandru Măţel","Romania","Defender","17/10/1989 (26)","17",NA,"02/09/2011: 
+          Luxembourg
+          0-2
+          Romania
+          (Luxembourg)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Dinamo Zagreb (CRO)","177cm","72kg","104663","113","Full-back","0"
+"Răzvan Raţ","Romania","Defender","26/05/1981 (35)","113",NA,"13/02/2002: 
+          France
+          2-1
+          Romania
+          (Saint-Denis)","15/06/2016:
+          Romania
+          1-1
+          Switzerland
+          (Paris)","Rayo Vallecano (ESP)","178cm","72kg","41544","113","Full-back","2"
+"Cosmin Moţi","Romania","Defender","03/12/1984 (31)","8",NA,"06/02/2008: 
+          Israel
+          1-0
+          Romania
+          (Ramat Gan)","03/06/2016:
+          Romania
+          5-1
+          Georgia
+          (Bucharest)","Ludogorets (BUL)","183cm","74kg","95343","113","Central defender","0"
+"Vlad Chiricheş","Romania","Defender","14/11/1989 (26)","44",NA,"10/08/2011: 
+          San Marino
+          0-1
+          Romania
+          (Serravalle)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Napoli (ITA)","184cm","75kg","250012057","113","Central defender","0"
+"Valerică Găman","Romania","Defender","25/02/1989 (27)","14",NA,"11/11/2011: 
+          Belgium
+          2-1
+          Romania
+          (Liege)","25/05/2016:
+          DR Congo
+          1-1
+          Romania
+          (Como)","Astra (ROU)","188cm","72kg","250006722","113","Central defender","1"
+"Steliano Filip","Romania","Defender","15/05/1994 (22)","5",NA,"17/11/2015: 
+          Italy
+          2-2
+          Romania","15/06/2016:
+          Romania
+          1-1
+          Switzerland
+          (Paris)","Dinamo Bucureşti (ROU)","177cm","73kg","250027053","113","Full-back","0"
+"Dragoş Grigore","Romania","Defender","07/09/1986 (29)","23",NA,"09/02/2011: 
+          Cyprus
+          1-1
+          Romania","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Al-Sailiya (QAT)","185cm","76kg","250011636","113","Central defender","0"
+"Cristian Săpunaru","Romania","Defender","05/04/1984 (32)","16",NA,"31/05/2008: 
+          Romania
+          4-0
+          Montenegro
+          (Bucharest)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Pandurii (ROU)","187cm","81kg","105556","113","Central defender","0"
+"Ovidiu Hoban","Romania","Midfield","27/12/1982 (33)","23",NA,"04/06/2013: 
+          Romania
+          4-0
+          Trinidad and Tobago","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","H. Beer-Sheva (ISR)","182cm","80kg","250030842","113","Central midfielder","1"
+"Alexandru Chipciu","Romania","Midfield","18/05/1989 (27)","24",NA,"10/08/2011: 
+          San Marino
+          0-1
+          Romania
+          (Serravalle)","15/06/2016:
+          Romania
+          1-1
+          Switzerland
+          (Paris)","Steaua (ROU)","177cm","74kg","103854","113","Forward","3"
+"Mihai Pintilii","Romania","Midfield","09/11/1984 (31)","34",NA,"10/08/2011: 
+          San Marino
+          0-1
+          Romania
+          (Serravalle)","15/06/2016:
+          Romania
+          1-1
+          Switzerland
+          (Paris)","Steaua (ROU)","180cm","78kg","250039882","113","Central midfielder","1"
+"Nicolae Stanciu","Romania","Midfield","07/05/1993 (23)","7",NA,"23/03/2016: 
+          Romania
+          1-0
+          Lithuania
+          (Giurgiu)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Steaua (ROU)","170cm","69kg","250035735","113","Attacking midfielder","4"
+"Gabriel Torje","Romania","Midfield","22/11/1989 (26)","54",NA,"03/09/2010: 
+          Romania
+          1-1
+          Albania
+          (Piatra Neamt)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Osmanlıspor (TUR)","168cm","71kg","103292","113","Winger","12"
+"Lucian Sânmărtean","Romania","Midfield","13/03/1980 (36)","21",NA,"20/11/2002: 
+          Romania
+          0-1
+          Croatia
+          (Timisoara)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Al-Ittihad (KSA)","175cm","70kg","56262","113","Attacking midfielder","0"
+"Andrei Prepeliţă","Romania","Midfield","08/12/1985 (30)","12",NA,"07/09/2014: 
+          Greece
+          0-1
+          Romania
+          (Piraeus)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Ludogorets (BUL)","178cm","79kg","72354","113","Central midfielder","0"
+"Adrian Popa","Romania","Midfield","24/07/1988 (27)","16",NA,"16/10/2012: 
+          Romania
+          1-4
+          Netherlands
+          (Bucharest)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Steaua (ROU)","169cm","71kg","250053934","113","Winger","1"
+"Denis Alibec","Romania","Forward","05/01/1991 (25)","6",NA,"11/10/2015: 
+          Faroe Islands
           0-3
-          England
-          (Port of Spain)","16/06/2016:
+          Romania
+          (Torshavn)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Astra (ROU)","187cm","77kg","1908272","113","Forward","1"
+"Claudiu Keșerü","Romania","Forward","02/12/1986 (29)","14",NA,"11/10/2013: 
+          Andorra
+          0-4
+          Romania
+          (Andorra la Vella)","15/06/2016:
+          Romania
+          1-1
+          Switzerland
+          (Paris)","Ludogorets (BUL)","178cm","71kg","67607","113","Forward","5"
+"Florin Andone","Romania","Forward","11/04/1993 (23)","9",NA,"13/06/2015: 
+          Northern Ireland
+          0-0
+          Romania
+          (Belfast)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Córdoba (ESP)","182cm","78kg","250050387","113","Forward","1"
+"Bogdan Stancu","Romania","Forward","28/06/1987 (28)","44",NA,"11/08/2010: 
+          Turkey
+          2-0
+          Romania
+          (Istanbul)","19/06/2016:
+          Romania
+          0-1
+          Albania
+          (Lyon)","Gençlerbirliği (TUR)","183cm","75kg","1902650","113","Forward","11"
+"Wayne Hennessey","Wales","Goalkeeper","24/01/1987 (29)","59","49","26/05/2007: 
+          Wales
+          2-2
+          New Zealand
+          (Wrexham)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Crystal Palace (ENG)","198cm","90kg","74897","144","Goalkeeper",NA
+"Owain Fôn Williams","Wales","Goalkeeper","17/03/1987 (29)","1","0","13/11/2015: 
+          Wales
+          2-3
+          Netherlands","13/11/2015:
+          Wales
+          2-3
+          Netherlands","Inverness (SCO)","193cm","77kg","74898","144","Goalkeeper",NA
+"Danny Ward","Wales","Goalkeeper","22/06/1993 (22)","3","4","24/03/2016: 
+          Wales
+          1-1
+          Northern Ireland
+          (Cardiff)","11/06/2016:
+          Wales
+          2-1
+          Slovakia
+          (Bordeaux)","Liverpool (ENG)","191cm","88kg","250012939","144","Goalkeeper",NA
+"Chris Gunter","Wales","Defender","21/07/1989 (26)","70",NA,"26/05/2007: 
+          Wales
+          2-2
+          New Zealand
+          (Wrexham)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Reading (ENG)","180cm","71kg","102221","144","Full-back","0"
+"Neil Taylor","Wales","Defender","07/02/1989 (27)","31",NA,"23/05/2010: 
+          Croatia
+          2-0
+          Wales
+          (Osijek)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Swansea (ENG)","175cm","64kg","102222","144","Full-back","1"
+"Ben Davies","Wales","Defender","24/04/1993 (23)","23",NA,"12/10/2012: 
+          Wales
+          2-1
+          Scotland
+          (Cardiff)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Tottenham (ENG)","181cm","76kg","250012942","144","Full-back","0"
+"James Chester","Wales","Defender","23/01/1989 (27)","14",NA,"04/06/2014: 
+          Netherlands
+          2-0
+          Wales
+          (Amsterdam)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","West Brom (ENG)","177cm","75kg","1908589","144","Central defender","0"
+"Ashley Williams","Wales","Defender","23/08/1984 (31)","62",NA,"26/03/2008: 
+          Luxembourg
+          0-2
+          Wales
+          (Luxembourg)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Swansea (ENG)","183cm","71kg","250006700","144","Central defender","1"
+"Jazz Richards","Wales","Defender","12/04/1991 (25)","10",NA,"27/05/2012: 
+          Wales
+          0-2
+          Mexico","11/06/2016:
+          Wales
+          2-1
+          Slovakia
+          (Bordeaux)","Fulham (ENG)","185cm","78kg","1906823","144","Full-back","0"
+"James Collins","Wales","Defender","23/08/1983 (32)","47",NA,"27/05/2004: 
+          Norway
+          0-0
+          Wales
+          (Oslo)","05/06/2016:
+          Sweden
+          3-0
+          Wales
+          (Solna)","West Ham (ENG)","188cm","83kg","52827","144","Central defender","3"
+"Joe Allen","Wales","Midfield","14/03/1990 (26)","28",NA,"29/05/2009: 
+          Wales
+          1-0
+          Estonia
+          (Llanelli)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Liverpool (ENG)","168cm","62kg","107011","144","Central midfielder","0"
+"Andy King","Wales","Midfield","29/10/1988 (27)","34",NA,"29/05/2009: 
+          Wales
+          1-0
+          Estonia
+          (Llanelli)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Leicester (ENG)","183cm","74kg","1908783","144","","2"
+"Aaron Ramsey","Wales","Midfield","26/12/1990 (25)","42",NA,"19/11/2008: 
+          Denmark
+          0-1
+          Wales
+          (Brondby)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Arsenal (ENG)","178cm","76kg","103769","144","Central midfielder","11"
+"David Edwards","Wales","Midfield","03/02/1986 (30)","35",NA,"17/11/2007: 
+          Wales
+          2-2
+          Republic of Ireland
+          (Cardiff)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Wolves (ENG)","183cm","78kg","67358","144","Defensive midfielder","3"
+"Joe Ledley","Wales","Midfield","23/01/1987 (29)","64",NA,"07/09/2005: 
+          Poland
+          1-0
+          Wales
+          (Warsaw)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Crystal Palace (ENG)","183cm","73kg","74899","144","Central midfielder","4"
+"Jonathan Williams","Wales","Midfield","09/10/1993 (22)","14",NA,"22/03/2013: 
+          Scotland
+          1-2
+          Wales
+          (Glasgow)","16/06/2016:
           England
           2-1
           Wales
-          (Lens Agglo)","Man. City (ENG)","196cm","89kg","104231","39","Goalkeeper",NA
+          (Lens Agglo)","Crystal Palace (ENG)","168cm","60kg","250007344","144","Winger","0"
+"David Vaughan","Wales","Midfield","18/02/1983 (33)","42",NA,"26/05/2003: 
+          USA
+          2-0
+          Wales
+          (San José)","05/06/2016:
+          Sweden
+          3-0
+          Wales
+          (Solna)","Nottm Forest (ENG)","171cm","70kg","65255","144","Central midfielder","1"
+"Hal Robson-Kanu","Wales","Forward","21/05/1989 (27)","32",NA,"23/05/2010: 
+          Croatia
+          2-0
+          Wales
+          (Osijek)","16/06/2016:
+          England
+          2-1
+          Wales
+          (Lens Agglo)","Reading (ENG)","183cm","83kg","250022171","144","Forward","3"
+"Gareth Bale","Wales","Forward","16/07/1989 (26)","58",NA,"27/05/2006: 
+          Wales
+          2-1
+          Trinidad and Tobago
+          (Graz)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Real Madrid (ESP)","183cm","74kg","102225","144","Forward","22"
+"George Williams","Wales","Forward","07/09/1995 (20)","7",NA,"04/06/2014: 
+          Netherlands
+          2-0
+          Wales
+          (Amsterdam)","24/03/2016:
+          Wales
+          1-1
+          Northern Ireland
+          (Cardiff)","Fulham (ENG)","172cm","73kg","250047038","144","Winger","0"
+"David Cotterill","Wales","Forward","04/12/1987 (28)","23",NA,"12/10/2005: 
+          Wales
+          2-0
+          Azerbaijan
+          (Cardiff)","24/03/2016:
+          Wales
+          1-1
+          Northern Ireland
+          (Cardiff)","Birmingham (ENG)","175cm","71kg","97627","144","Winger","2"
+"Sam Vokes","Wales","Forward","21/10/1989 (26)","41",NA,"28/05/2008: 
+          Iceland
+          0-1
+          Wales
+          (Reykjavik)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","Burnley (ENG)","186cm","90kg","1906115","144","Forward","6"
+"Simon Church","Wales","Forward","10/12/1988 (27)","37",NA,"29/05/2009: 
+          Wales
+          1-0
+          Estonia
+          (Llanelli)","20/06/2016:
+          Russia
+          0-3
+          Wales
+          (Toulouse)","MK Dons (ENG)","183cm","84kg","1906114","144","Forward","3"
+"Joe Hart","England","Goalkeeper","19/04/1987 (29)","62","42","01/06/2008: 
+          Trinidad and Tobago
+          0-3
+          England
+          (Port of Spain)","20/06/2016:
+          Slovakia
+          0-0
+          England
+          (Saint-Etienne)","Man. City (ENG)","196cm","89kg","104231","39","Goalkeeper",NA
 "Fraser Forster","England","Goalkeeper","17/03/1988 (28)","6","7","15/11/2013: 
           England
           0-2
@@ -838,33 +1042,33 @@
           2-1
           Wales
           (Lens Agglo)","Tottenham (ENG)","173cm","72kg","108212","39","Full-back","0"
-"Gary Cahill","England","Defender","19/12/1985 (30)","45",NA,"03/09/2010: 
+"Gary Cahill","England","Defender","19/12/1985 (30)","46",NA,"03/09/2010: 
           England
           4-0
           Bulgaria
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Chelsea (ENG)","193cm","86kg","1902472","39","Central defender","3"
-"Chris Smalling","England","Defender","22/11/1989 (26)","27",NA,"02/09/2011: 
+          (Saint-Etienne)","Chelsea (ENG)","193cm","86kg","1902472","39","Central defender","3"
+"Chris Smalling","England","Defender","22/11/1989 (26)","28",NA,"02/09/2011: 
           Bulgaria
           0-3
           England
-          (Sofia)","16/06/2016:
+          (Sofia)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Man. United (ENG)","192cm","81kg","250011196","39","Central defender","1"
-"Nathaniel Clyne","England","Defender","05/04/1991 (25)","12",NA,"15/11/2014: 
+          (Saint-Etienne)","Man. United (ENG)","192cm","81kg","250011196","39","Central defender","1"
+"Nathaniel Clyne","England","Defender","05/04/1991 (25)","13",NA,"15/11/2014: 
           England
           3-1
           Slovenia
-          (London)","27/05/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Australia
-          (Sunderland)","Liverpool (ENG)","175cm","67kg","250017926","39","Full-back","0"
+          (Saint-Etienne)","Liverpool (ENG)","175cm","67kg","250017926","39","Full-back","0"
 "John Stones","England","Defender","28/05/1994 (22)","10",NA,"30/05/2014: 
           England
           3-0
@@ -874,14 +1078,14 @@
           2-1
           Australia
           (Sunderland)","Everton (ENG)","188cm","70kg","250064233","39","Central defender","0"
-"Ryan Bertrand","England","Defender","05/08/1989 (26)","8",NA,"15/08/2012: 
+"Ryan Bertrand","England","Defender","05/08/1989 (26)","9",NA,"15/08/2012: 
           England
           2-1
-          Italy","27/05/2016:
+          Italy","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Australia
-          (Sunderland)","Southampton (ENG)","179cm","85kg","103869","39","Full-back","0"
+          (Saint-Etienne)","Southampton (ENG)","179cm","85kg","103869","39","Full-back","0"
 "James Milner","England","Midfield","04/01/1986 (30)","61",NA,"12/08/2009: 
           Netherlands
           2-2
@@ -900,41 +1104,41 @@
           2-1
           Wales
           (Lens Agglo)","Man. City (ENG)","170cm","69kg","250024795","39","Winger","2"
-"Adam Lallana","England","Midfield","10/05/1988 (28)","25",NA,"15/11/2013: 
+"Adam Lallana","England","Midfield","10/05/1988 (28)","26",NA,"15/11/2013: 
           England
           0-2
           Chile
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Liverpool (ENG)","172cm","73kg","99208","39","Attacking midfielder","0"
-"Jordan Henderson","England","Midfield","17/06/1990 (26)","26",NA,"17/11/2010: 
+          (Saint-Etienne)","Liverpool (ENG)","172cm","73kg","99208","39","Attacking midfielder","0"
+"Jordan Henderson","England","Midfield","17/06/1990 (26)","27",NA,"17/11/2010: 
           England
           1-2
           France
-          (London)","02/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          1-0
-          Portugal
-          (London)","Liverpool (ENG)","182cm","67kg","250010260","39","Central midfielder","0"
-"Eric Dier","England","Midfield","15/01/1994 (22)","9",NA,"13/11/2015: 
+          (Saint-Etienne)","Liverpool (ENG)","182cm","67kg","250010260","39","Central midfielder","0"
+"Eric Dier","England","Midfield","15/01/1994 (22)","10",NA,"13/11/2015: 
           Spain
           2-0
-          England","16/06/2016:
+          England","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Tottenham (ENG)","188cm","88kg","250050416","39","Defensive midfielder","2"
-"Jack Wilshere","England","Midfield","01/01/1992 (24)","32",NA,"11/08/2010: 
+          (Saint-Etienne)","Tottenham (ENG)","188cm","88kg","250050416","39","Defensive midfielder","2"
+"Jack Wilshere","England","Midfield","01/01/1992 (24)","33",NA,"11/08/2010: 
           England
           3-0
           Hungary
-          (London)","11/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          1-1
-          Russia
-          (Marseille)","Arsenal (ENG)","172cm","65kg","1907893","39","Central midfielder","2"
+          (Saint-Etienne)","Arsenal (ENG)","172cm","65kg","1907893","39","Central midfielder","2"
 "Ross Barkley","England","Midfield","05/12/1993 (22)","22",NA,"06/09/2013: 
           England
           4-0
@@ -944,50 +1148,50 @@
           2-1
           Australia
           (Sunderland)","Everton (ENG)","189cm","76kg","250007655","39","Attacking midfielder","2"
-"Dele Alli","England","Midfield","11/04/1996 (20)","10",NA,"09/10/2015: 
+"Dele Alli","England","Midfield","11/04/1996 (20)","11",NA,"09/10/2015: 
           England
           2-0
           Estonia
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Tottenham (ENG)","188cm","73kg","250058217","39","Attacking midfielder","1"
-"Harry Kane","England","Forward","28/07/1993 (22)","14",NA,"27/03/2015: 
+          (Saint-Etienne)","Tottenham (ENG)","188cm","73kg","250058217","39","Attacking midfielder","1"
+"Harry Kane","England","Forward","28/07/1993 (22)","15",NA,"27/03/2015: 
           England
           4-0
           Lithuania
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Tottenham (ENG)","188cm","65kg","250016833","39","Forward","5"
-"Wayne Rooney","England","Forward","24/10/1985 (30)","113",NA,"12/02/2003: 
+          (Saint-Etienne)","Tottenham (ENG)","188cm","65kg","250016833","39","Forward","5"
+"Wayne Rooney","England","Forward","24/10/1985 (30)","114",NA,"12/02/2003: 
           England
           1-3
           Australia
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Man. United (ENG)","176cm","83kg","63891","39","Forward","52"
-"Jamie Vardy","England","Forward","11/01/1987 (29)","9",NA,"07/06/2015: 
+          (Saint-Etienne)","Man. United (ENG)","176cm","83kg","63891","39","Forward","52"
+"Jamie Vardy","England","Forward","11/01/1987 (29)","10",NA,"07/06/2015: 
           Republic of Ireland
           0-0
-          England","16/06/2016:
+          England","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Leicester (ENG)","178cm","76kg","250082842","39","Forward","4"
-"Daniel Sturridge","England","Forward","01/09/1989 (26)","19",NA,"15/11/2011: 
+          (Saint-Etienne)","Leicester (ENG)","178cm","76kg","250082842","39","Forward","4"
+"Daniel Sturridge","England","Forward","01/09/1989 (26)","20",NA,"15/11/2011: 
           England
           1-0
           Sweden
-          (London)","16/06/2016:
+          (London)","20/06/2016:
+          Slovakia
+          0-0
           England
-          2-1
-          Wales
-          (Lens Agglo)","Liverpool (ENG)","188cm","76kg","103561","39","Forward","6"
+          (Saint-Etienne)","Liverpool (ENG)","188cm","76kg","103561","39","Forward","6"
 "Marcus Rashford","England","Forward","31/10/1997 (18)","2",NA,"27/05/2016: 
           England
           2-1
@@ -997,210 +1201,6 @@
           2-1
           Wales
           (Lens Agglo)","Man. United (ENG)","180cm","70kg","250088246","39","Forward","1"
-"Wayne Hennessey","Wales","Goalkeeper","24/01/1987 (29)","58","49","26/05/2007: 
-          Wales
-          2-2
-          New Zealand
-          (Wrexham)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Crystal Palace (ENG)","198cm","90kg","74897","144","Goalkeeper",NA
-"Owain Fôn Williams","Wales","Goalkeeper","17/03/1987 (29)","1","0","13/11/2015: 
-          Wales
-          2-3
-          Netherlands","13/11/2015:
-          Wales
-          2-3
-          Netherlands","Inverness (SCO)","193cm","77kg","74898","144","Goalkeeper",NA
-"Danny Ward","Wales","Goalkeeper","22/06/1993 (22)","3","4","24/03/2016: 
-          Wales
-          1-1
-          Northern Ireland
-          (Cardiff)","11/06/2016:
-          Wales
-          2-1
-          Slovakia
-          (Bordeaux)","Liverpool (ENG)","191cm","88kg","250012939","144","Goalkeeper",NA
-"Chris Gunter","Wales","Defender","21/07/1989 (26)","69",NA,"26/05/2007: 
-          Wales
-          2-2
-          New Zealand
-          (Wrexham)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Reading (ENG)","180cm","71kg","102221","144","Full-back","0"
-"Neil Taylor","Wales","Defender","07/02/1989 (27)","30",NA,"23/05/2010: 
-          Croatia
-          2-0
-          Wales
-          (Osijek)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Swansea (ENG)","175cm","64kg","102222","144","Full-back","0"
-"Ben Davies","Wales","Defender","24/04/1993 (23)","22",NA,"12/10/2012: 
-          Wales
-          2-1
-          Scotland
-          (Cardiff)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Tottenham (ENG)","181cm","76kg","250012942","144","Full-back","0"
-"James Chester","Wales","Defender","23/01/1989 (27)","13",NA,"04/06/2014: 
-          Netherlands
-          2-0
-          Wales
-          (Amsterdam)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","West Brom (ENG)","177cm","75kg","1908589","144","Central defender","0"
-"Ashley Williams","Wales","Defender","23/08/1984 (31)","61",NA,"26/03/2008: 
-          Luxembourg
-          0-2
-          Wales
-          (Luxembourg)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Swansea (ENG)","183cm","71kg","250006700","144","Central defender","1"
-"Jazz Richards","Wales","Defender","12/04/1991 (25)","10",NA,"27/05/2012: 
-          Wales
-          0-2
-          Mexico","11/06/2016:
-          Wales
-          2-1
-          Slovakia
-          (Bordeaux)","Fulham (ENG)","185cm","78kg","1906823","144","Full-back","0"
-"James Collins","Wales","Defender","23/08/1983 (32)","47",NA,"27/05/2004: 
-          Norway
-          0-0
-          Wales
-          (Oslo)","05/06/2016:
-          Sweden
-          3-0
-          Wales
-          (Solna)","West Ham (ENG)","188cm","83kg","52827","144","Central defender","3"
-"Joe Allen","Wales","Midfield","14/03/1990 (26)","27",NA,"29/05/2009: 
-          Wales
-          1-0
-          Estonia
-          (Llanelli)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Liverpool (ENG)","168cm","62kg","107011","144","Central midfielder","0"
-"Andy King","Wales","Midfield","29/10/1988 (27)","33",NA,"29/05/2009: 
-          Wales
-          1-0
-          Estonia
-          (Llanelli)","05/06/2016:
-          Sweden
-          3-0
-          Wales
-          (Solna)","Leicester (ENG)","183cm","74kg","1908783","144","","2"
-"Aaron Ramsey","Wales","Midfield","26/12/1990 (25)","41",NA,"19/11/2008: 
-          Denmark
-          0-1
-          Wales
-          (Brondby)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Arsenal (ENG)","178cm","76kg","103769","144","Central midfielder","10"
-"David Edwards","Wales","Midfield","03/02/1986 (30)","34",NA,"17/11/2007: 
-          Wales
-          2-2
-          Republic of Ireland
-          (Cardiff)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Wolves (ENG)","183cm","78kg","67358","144","Defensive midfielder","3"
-"Joe Ledley","Wales","Midfield","23/01/1987 (29)","63",NA,"07/09/2005: 
-          Poland
-          1-0
-          Wales
-          (Warsaw)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Crystal Palace (ENG)","183cm","73kg","74899","144","Central midfielder","4"
-"Jonathan Williams","Wales","Midfield","09/10/1993 (22)","14",NA,"22/03/2013: 
-          Scotland
-          1-2
-          Wales
-          (Glasgow)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Crystal Palace (ENG)","168cm","60kg","250007344","144","Winger","0"
-"David Vaughan","Wales","Midfield","18/02/1983 (33)","42",NA,"26/05/2003: 
-          USA
-          2-0
-          Wales
-          (San José)","05/06/2016:
-          Sweden
-          3-0
-          Wales
-          (Solna)","Nottm Forest (ENG)","171cm","70kg","65255","144","Central midfielder","1"
-"Hal Robson-Kanu","Wales","Forward","21/05/1989 (27)","32",NA,"23/05/2010: 
-          Croatia
-          2-0
-          Wales
-          (Osijek)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Reading (ENG)","183cm","83kg","250022171","144","Forward","3"
-"Gareth Bale","Wales","Forward","16/07/1989 (26)","57",NA,"27/05/2006: 
-          Wales
-          2-1
-          Trinidad and Tobago
-          (Graz)","16/06/2016:
-          England
-          2-1
-          Wales
-          (Lens Agglo)","Real Madrid (ESP)","183cm","74kg","102225","144","Forward","21"
-"George Williams","Wales","Forward","07/09/1995 (20)","7",NA,"04/06/2014: 
-          Netherlands
-          2-0
-          Wales
-          (Amsterdam)","24/03/2016:
-          Wales
-          1-1
-          Northern Ireland
-          (Cardiff)","Fulham (ENG)","172cm","73kg","250047038","144","Winger","0"
-"David Cotterill","Wales","Forward","04/12/1987 (28)","23",NA,"12/10/2005: 
-          Wales
-          2-0
-          Azerbaijan
-          (Cardiff)","24/03/2016:
-          Wales
-          1-1
-          Northern Ireland
-          (Cardiff)","Birmingham (ENG)","175cm","71kg","97627","144","Winger","2"
-"Sam Vokes","Wales","Forward","21/10/1989 (26)","40",NA,"28/05/2008: 
-          Iceland
-          0-1
-          Wales
-          (Reykjavik)","05/06/2016:
-          Sweden
-          3-0
-          Wales
-          (Solna)","Burnley (ENG)","186cm","90kg","1906115","144","Forward","6"
-"Simon Church","Wales","Forward","10/12/1988 (27)","36",NA,"29/05/2009: 
-          Wales
-          1-0
-          Estonia
-          (Llanelli)","05/06/2016:
-          Sweden
-          3-0
-          Wales
-          (Solna)","MK Dons (ENG)","183cm","84kg","1906114","144","Forward","3"
 "Ján Mucha","Slovakia","Goalkeeper","05/12/1982 (33)","46","45","06/02/2008: 
           Slovakia
           1-1
@@ -1219,68 +1219,68 @@
           3-1
           Georgia
           (Wels)","Rapid Wien (AUT)","197cm","90kg","250037814","58836","Goalkeeper",NA
-"Matúš Kozáčik","Slovakia","Goalkeeper","27/12/1983 (32)","19","16","10/12/2006: 
+"Matúš Kozáčik","Slovakia","Goalkeeper","27/12/1983 (32)","20","16","10/12/2006: 
           United Arab Emirates
           1-2
           Slovakia
-          (Abu Dhabi)","15/06/2016:
-          Russia
-          1-2
+          (Abu Dhabi)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Plzeň (CZE)","193cm","88kg","52007","58836","Goalkeeper",NA
-"Peter Pekarík","Slovakia","Defender","30/10/1986 (29)","69",NA,"10/12/2006: 
+          0-0
+          England
+          (Saint-Etienne)","Plzeň (CZE)","193cm","88kg","52007","58836","Goalkeeper",NA
+"Peter Pekarík","Slovakia","Defender","30/10/1986 (29)","70",NA,"10/12/2006: 
           United Arab Emirates
           1-2
           Slovakia
-          (Abu Dhabi)","15/06/2016:
-          Russia
-          1-2
+          (Abu Dhabi)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Hertha (GER)","176cm","70kg","67750","58836","Full-back","2"
-"Martin Škrtel","Slovakia","Defender","15/12/1984 (31)","83",NA,"09/07/2004: 
+          0-0
+          England
+          (Saint-Etienne)","Hertha (GER)","176cm","70kg","67750","58836","Full-back","2"
+"Martin Škrtel","Slovakia","Defender","15/12/1984 (31)","84",NA,"09/07/2004: 
           Japan
           3-1
           Slovakia
-          (Hiroshima)","15/06/2016:
-          Russia
-          1-2
+          (Hiroshima)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Liverpool (ENG)","193cm","81kg","65030","58836","Central defender","5"
-"Ján Ďurica","Slovakia","Defender","10/12/1981 (34)","82",NA,"10/12/2003: 
+          0-0
+          England
+          (Saint-Etienne)","Liverpool (ENG)","193cm","81kg","65030","58836","Central defender","5"
+"Ján Ďurica","Slovakia","Defender","10/12/1981 (34)","83",NA,"10/12/2003: 
           Kuwait
           0-2
-          Slovakia","15/06/2016:
-          Russia
-          1-2
+          Slovakia","20/06/2016:
           Slovakia
-          (Lille Métropole)","Lokomotiv Moskva (RUS)","188cm","86kg","71720","58836","Central defender","4"
-"Norbert Gyömber","Slovakia","Defender","03/07/1992 (23)","13",NA,"05/03/2014: 
+          0-0
+          England
+          (Saint-Etienne)","Lokomotiv Moskva (RUS)","188cm","86kg","71720","58836","Central defender","4"
+"Norbert Gyömber","Slovakia","Defender","03/07/1992 (23)","14",NA,"05/03/2014: 
           Israel
           1-3
           Slovakia
-          (Netanya)","27/05/2016:
+          (Netanya)","20/06/2016:
+          Slovakia
+          0-0
+          England
+          (Saint-Etienne)","Roma (ITA)","189cm","74kg","250004993","58836","Central defender","0"
+"Milan Škriniar","Slovakia","Defender","11/02/1995 (21)","3",NA,"27/05/2016: 
           Slovakia
           3-1
           Georgia
-          (Wels)","Roma (ITA)","189cm","74kg","250004993","58836","Central defender","0"
-"Milan Škriniar","Slovakia","Defender","11/02/1995 (21)","2",NA,"27/05/2016: 
+          (Wels)","20/06/2016:
           Slovakia
-          3-1
-          Georgia
-          (Wels)","29/05/2016:
-          Germany
-          1-3
-          Slovakia
-          (Augsburg)","Sampdoria (ITA)","187cm","80kg","250041563","58836","Central defender","0"
-"Tomáš Hubočan","Slovakia","Defender","17/09/1985 (30)","45",NA,"10/12/2006: 
+          0-0
+          England
+          (Saint-Etienne)","Sampdoria (ITA)","187cm","80kg","250041563","58836","Central defender","0"
+"Tomáš Hubočan","Slovakia","Defender","17/09/1985 (30)","46",NA,"10/12/2006: 
           United Arab Emirates
           1-2
           Slovakia
-          (Abu Dhabi)","15/06/2016:
-          Russia
-          1-2
+          (Abu Dhabi)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Dinamo Moskva (RUS)","184cm","70kg","95711","58836","Central defender","0"
+          0-0
+          England
+          (Saint-Etienne)","Dinamo Moskva (RUS)","184cm","70kg","95711","58836","Central defender","0"
 "Kornel Saláta","Slovakia","Defender","24/01/1985 (31)","37",NA,"24/05/2008: 
           Switzerland
           2-0
@@ -1290,15 +1290,15 @@
           3-1
           Georgia
           (Wels)","Slovan Bratislava (SVK)","191cm","89kg","105127","58836","Central defender","2"
-"Dušan Švento","Slovakia","Defender","01/08/1985 (30)","41",NA,"15/08/2006: 
+"Dušan Švento","Slovakia","Defender","01/08/1985 (30)","42",NA,"15/08/2006: 
           Slovakia
           3-0
           Malta
-          (Bratislava)","15/06/2016:
-          Russia
-          1-2
+          (Bratislava)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Köln (GER)","178cm","70kg","93565","58836","Full-back","1"
+          0-0
+          England
+          (Saint-Etienne)","Köln (GER)","178cm","70kg","93565","58836","Full-back","1"
 "Ján Greguš","Slovakia","Midfield","29/01/1991 (25)","7",NA,"31/03/2015: 
           Slovakia
           1-0
@@ -1307,24 +1307,24 @@
           1-3
           Slovakia
           (Augsburg)","Jablonec (CZE)","189cm","70kg","1906308","58836","Attacking midfielder","0"
-"Vladimír Weiss","Slovakia","Midfield","30/11/1989 (26)","54",NA,"12/08/2009: 
+"Vladimír Weiss","Slovakia","Midfield","30/11/1989 (26)","55",NA,"12/08/2009: 
           Iceland
           1-1
           Slovakia
-          (Reykjavik)","15/06/2016:
-          Russia
-          1-2
+          (Reykjavik)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Al-Gharafa (QAT)","173cm","71kg","102153","58836","Winger","5"
-"Ondrej Duda","Slovakia","Midfield","05/12/1994 (21)","13",NA,"18/11/2014: 
+          0-0
+          England
+          (Saint-Etienne)","Al-Gharafa (QAT)","173cm","71kg","102153","58836","Winger","5"
+"Ondrej Duda","Slovakia","Midfield","05/12/1994 (21)","14",NA,"18/11/2014: 
           Slovakia
           2-1
           Finland
-          (Zilina)","15/06/2016:
-          Russia
-          1-2
+          (Zilina)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Legia (POL)","181cm","74kg","250055981","58836","Attacking midfielder","2"
+          0-0
+          England
+          (Saint-Etienne)","Legia (POL)","181cm","74kg","250055981","58836","Attacking midfielder","2"
 "Miroslav Stoch","Slovakia","Midfield","19/10/1989 (26)","55",NA,"10/02/2009: 
           Slovakia
           2-3
@@ -1343,41 +1343,41 @@
           2-1
           Slovakia
           (Bordeaux)","Plzeň (CZE)","172cm","68kg","250043185","58836","Attacking midfielder","0"
-"Marek Hamšík","Slovakia","Midfield","27/07/1987 (28)","89",NA,"07/02/2007: 
+"Marek Hamšík","Slovakia","Midfield","27/07/1987 (28)","90",NA,"07/02/2007: 
           Poland
           2-2
           Slovakia
-          (Jerez De La Frontera)","15/06/2016:
-          Russia
-          1-2
+          (Jerez De La Frontera)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Napoli (ITA)","183cm","79kg","73965","58836","Attacking midfielder","19"
-"Juraj Kucka","Slovakia","Midfield","26/02/1987 (29)","49",NA,"19/11/2008: 
+          0-0
+          England
+          (Saint-Etienne)","Napoli (ITA)","183cm","79kg","73965","58836","Attacking midfielder","19"
+"Juraj Kucka","Slovakia","Midfield","26/02/1987 (29)","50",NA,"19/11/2008: 
           Slovakia
           4-0
           Liechtenstein
-          (Zilina)","15/06/2016:
-          Russia
-          1-2
+          (Zilina)","20/06/2016:
           Slovakia
-          (Lille Métropole)","Milan (ITA)","186cm","86kg","1905643","58836","Defensive midfielder","5"
-"Róbert Mak","Slovakia","Midfield","08/03/1991 (25)","29",NA,"06/02/2013: 
+          0-0
+          England
+          (Saint-Etienne)","Milan (ITA)","186cm","86kg","1905643","58836","Defensive midfielder","5"
+"Róbert Mak","Slovakia","Midfield","08/03/1991 (25)","30",NA,"06/02/2013: 
           Belgium
           2-1
           Slovakia
-          (Bruges)","15/06/2016:
-          Russia
-          1-2
+          (Bruges)","20/06/2016:
           Slovakia
-          (Lille Métropole)","PAOK (GRE)","179cm","78kg","107044","58836","Winger","7"
-"Viktor Pečovský","Slovakia","Midfield","24/05/1983 (33)","33",NA,"15/08/2012: 
+          0-0
+          England
+          (Saint-Etienne)","PAOK (GRE)","179cm","78kg","107044","58836","Winger","7"
+"Viktor Pečovský","Slovakia","Midfield","24/05/1983 (33)","34",NA,"15/08/2012: 
           Denmark
           1-3
-          Slovakia","15/06/2016:
-          Russia
-          1-2
+          Slovakia","20/06/2016:
           Slovakia
-          (Lille Métropole)","Žilina (SVK)","171cm","74kg","63209","58836","Defensive midfielder","1"
+          0-0
+          England
+          (Saint-Etienne)","Žilina (SVK)","171cm","74kg","63209","58836","Defensive midfielder","1"
 "Stanislav Šesták","Slovakia","Forward","16/12/1982 (33)","65",NA,"18/08/2004: 
           Slovakia
           3-1
@@ -1404,15 +1404,15 @@
           1-2
           Slovakia
           (Lille Métropole)","Plzeň (CZE)","183cm","75kg","107472","58836","Forward","4"
-"Igor Akinfeev","Russia","Goalkeeper","08/04/1986 (30)","88","64","28/04/2004: 
+"Igor Akinfeev","Russia","Goalkeeper","08/04/1986 (30)","89","67","28/04/2004: 
           Norway
           3-2
           Russia
-          (Oslo)","15/06/2016:
+          (Oslo)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","CSKA Moskva (RUS)","186cm","82kg","66794","57451","Goalkeeper",NA
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","186cm","82kg","66794","57451","Goalkeeper",NA
 "Yuri Lodygin","Russia","Goalkeeper","26/05/1990 (26)","11","3","19/11/2013: 
           Russia
           2-1
@@ -1440,24 +1440,24 @@
           1-1
           Russia
           (Monaco)","Lokomotiv Moskva (RUS)","176cm","73kg","93838","57451","Full-back","0"
-"Igor Smolnikov","Russia","Defender","08/08/1988 (27)","16",NA,"19/11/2013: 
+"Igor Smolnikov","Russia","Defender","08/08/1988 (27)","17",NA,"19/11/2013: 
           Russia
           2-1
           Korea Republic
-          (Dubai)","15/06/2016:
+          (Dubai)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Zenit (RUS)","178cm","70kg","108017","57451","Full-back","0"
-"Sergei Ignashevich","Russia","Defender","14/07/1979 (36)","118",NA,"21/08/2002: 
+          0-3
+          Wales
+          (Toulouse)","Zenit (RUS)","178cm","70kg","108017","57451","Full-back","0"
+"Sergei Ignashevich","Russia","Defender","14/07/1979 (36)","119",NA,"21/08/2002: 
           Russia
           1-1
           Sweden
-          (Moscow)","15/06/2016:
+          (Moscow)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","CSKA Moskva (RUS)","187cm","84kg","55543","57451","Central defender","8"
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","187cm","84kg","55543","57451","Central defender","8"
 "Roman Neustädter","Russia","Defender","18/02/1988 (28)","5",NA,"01/06/2016: 
           Czech Republic
           2-1
@@ -1467,24 +1467,24 @@
           1-2
           Slovakia
           (Lille Métropole)","Schalke (GER)","190cm","83kg","250011785","57451","Defensive midfielder","0"
-"Aleksei Berezutski","Russia","Defender","20/06/1982 (33)","55",NA,"12/02/2003: 
+"Aleksei Berezutski","Russia","Defender","20/06/1982 (34)","56",NA,"12/02/2003: 
           Cyprus
           0-1
           Russia
-          (Limassol)","29/03/2016:
-          France
-          4-2
+          (Limassol)","20/06/2016:
           Russia
-          (Saint-Denis)","CSKA Moskva (RUS)","190cm","87kg","49086","57451","Central defender","0"
-"Vasili Berezutski","Russia","Defender","20/06/1982 (33)","97",NA,"07/06/2003: 
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","190cm","87kg","49086","57451","Central defender","0"
+"Vasili Berezutski","Russia","Defender","20/06/1982 (34)","98",NA,"07/06/2003: 
           Switzerland
           2-2
           Russia
-          (Basel)","15/06/2016:
+          (Basel)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","CSKA Moskva (RUS)","189cm","87kg","49083","57451","Central defender","5"
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","189cm","87kg","49083","57451","Central defender","5"
 "Georgi Schennikov","Russia","Defender","27/04/1991 (25)","10",NA,"15/08/2012: 
           Russia
           1-1
@@ -1494,14 +1494,14 @@
           1-2
           Slovakia
           (Lille Métropole)","CSKA Moskva (RUS)","180cm","75kg","1906987","57451","Full-back","0"
-"Dmitri Kombarov","Russia","Defender","22/01/1987 (29)","38",NA,"29/02/2012: 
+"Dmitri Kombarov","Russia","Defender","22/01/1987 (29)","39",NA,"29/02/2012: 
           Denmark
           0-2
-          Russia","01/06/2016:
-          Czech Republic
-          2-1
+          Russia","20/06/2016:
           Russia
-          (Innsbruck)","Spartak Moskva (RUS)","181cm","72kg","102799","57451","Full-back","2"
+          0-3
+          Wales
+          (Toulouse)","Spartak Moskva (RUS)","181cm","72kg","102799","57451","Full-back","2"
 "Artur Yusupov","Russia","Midfield","01/09/1989 (26)","2",NA,"17/11/2015: 
           Russia
           1-3
@@ -1510,40 +1510,40 @@
           3-0
           Lithuania
           (Moscow)","Zenit (RUS)","180cm","73kg","250007698","57451","Central midfielder","0"
-"Denis Glushakov","Russia","Midfield","27/01/1987 (29)","45",NA,"29/03/2011: 
+"Denis Glushakov","Russia","Midfield","27/01/1987 (29)","46",NA,"29/03/2011: 
           Qatar
           1-1
           Russia
-          (Doha)","15/06/2016:
+          (Doha)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Spartak Moskva (RUS)","182cm","80kg","250002908","57451","Central midfielder","5"
-"Pavel Mamaev","Russia","Midfield","17/09/1988 (27)","14",NA,"17/11/2010: 
+          0-3
+          Wales
+          (Toulouse)","Spartak Moskva (RUS)","182cm","80kg","250002908","57451","Central midfielder","5"
+"Pavel Mamaev","Russia","Midfield","17/09/1988 (27)","15",NA,"17/11/2010: 
           Russia
           0-2
-          Belgium","15/06/2016:
+          Belgium","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Krasnodar (RUS)","178cm","70kg","106215","57451","Central midfielder","0"
-"Aleksandr Golovin","Russia","Midfield","30/05/1996 (20)","7",NA,"07/06/2015: 
+          0-3
+          Wales
+          (Toulouse)","Krasnodar (RUS)","178cm","70kg","106215","57451","Central midfielder","0"
+"Aleksandr Golovin","Russia","Midfield","30/05/1996 (20)","8",NA,"07/06/2015: 
           Russia
           4-2
-          Belarus","15/06/2016:
+          Belarus","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","CSKA Moskva (RUS)","180cm","69kg","250058227","57451","Attacking midfielder","2"
-"Roman Shirokov","Russia","Midfield","06/07/1981 (34)","55",NA,"26/03/2008: 
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","180cm","69kg","250058227","57451","Attacking midfielder","2"
+"Roman Shirokov","Russia","Midfield","06/07/1981 (34)","56",NA,"26/03/2008: 
           Romania
           3-0
           Russia
-          (Bucharest)","15/06/2016:
+          (Bucharest)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","CSKA Moskva (RUS)","183cm","80kg","1907617","57451","Full-back","13"
+          0-3
+          Wales
+          (Toulouse)","CSKA Moskva (RUS)","183cm","80kg","1907617","57451","Full-back","13"
 "Oleg Shatov","Russia","Midfield","29/07/1990 (25)","25",NA,"06/02/2013: 
           Iceland
           0-2
@@ -1561,15 +1561,15 @@
           1-1
           Russia
           (Monaco)","Terek (RUS)","192cm","87kg","91365","57451","Central midfielder","0"
-"Aleksandr Samedov","Russia","Midfield","19/07/1984 (31)","29",NA,"07/10/2011: 
+"Aleksandr Samedov","Russia","Midfield","19/07/1984 (31)","30",NA,"07/10/2011: 
           Slovakia
           0-1
           Russia
-          (Zilina)","01/06/2016:
-          Czech Republic
-          2-1
+          (Zilina)","20/06/2016:
           Russia
-          (Innsbruck)","Lokomotiv Moskva (RUS)","177cm","75kg","72363","57451","Winger","3"
+          0-3
+          Wales
+          (Toulouse)","Lokomotiv Moskva (RUS)","177cm","75kg","72363","57451","Winger","3"
 "Dmitri Torbinski","Russia","Midfield","28/04/1984 (32)","30",NA,"24/03/2007: 
           Estonia
           0-2
@@ -1579,40 +1579,40 @@
           1-1
           Russia
           (Monaco)","Krasnodar (RUS)","172cm","60kg","68860","57451","Winger","2"
-"Aleksandr Kokorin","Russia","Forward","19/03/1991 (25)","40",NA,"11/11/2011: 
+"Aleksandr Kokorin","Russia","Forward","19/03/1991 (25)","41",NA,"11/11/2011: 
           Greece
           1-1
           Russia
-          (Piraeus)","15/06/2016:
+          (Piraeus)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Zenit (RUS)","181cm","74kg","1909617","57451","Forward","12"
-"Fedor Smolov","Russia","Forward","09/02/1990 (26)","16",NA,"14/11/2012: 
+          0-3
+          Wales
+          (Toulouse)","Zenit (RUS)","181cm","74kg","1909617","57451","Forward","12"
+"Fedor Smolov","Russia","Forward","09/02/1990 (26)","17",NA,"14/11/2012: 
           Russia
           2-2
-          USA","15/06/2016:
+          USA","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Krasnodar (RUS)","187cm","80kg","108421","57451","Forward","5"
-"Artem Dzyuba","Russia","Forward","22/08/1988 (27)","20",NA,"11/11/2011: 
+          0-3
+          Wales
+          (Toulouse)","Krasnodar (RUS)","187cm","80kg","108421","57451","Forward","5"
+"Artem Dzyuba","Russia","Forward","22/08/1988 (27)","21",NA,"11/11/2011: 
           Greece
           1-1
           Russia
-          (Piraeus)","15/06/2016:
+          (Piraeus)","20/06/2016:
           Russia
-          1-2
-          Slovakia
-          (Lille Métropole)","Zenit (RUS)","196cm","91kg","97787","57451","Forward","9"
-"Manuel Neuer","Germany","Goalkeeper","27/03/1986 (30)","67","55","02/06/2009: 
+          0-3
+          Wales
+          (Toulouse)","Zenit (RUS)","196cm","91kg","97787","57451","Forward","9"
+"Manuel Neuer","Germany","Goalkeeper","27/03/1986 (30)","68","55","02/06/2009: 
           United Arab Emirates
           2-7
-          Germany","16/06/2016:
+          Germany","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Bayern (GER)","193cm","92kg","97923","47","Goalkeeper",NA
+          (Paris)","Bayern (GER)","193cm","92kg","97923","47","Goalkeeper",NA
 "Bernd Leno","Germany","Goalkeeper","04/03/1992 (24)","1","2","29/05/2016: 
           Germany
           1-3
@@ -1639,89 +1639,89 @@
           2-0
           Ukraine
           (Lille Métropole)","Valencia (ESP)","184cm","82kg","250007624","47","Central defender","1"
-"Jonas Hector","Germany","Defender","27/05/1990 (26)","16",NA,"14/11/2014: 
+"Jonas Hector","Germany","Defender","27/05/1990 (26)","17",NA,"14/11/2014: 
           Germany
           4-0
           Gibraltar
-          (Nuremberg)","16/06/2016:
+          (Nuremberg)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Köln (GER)","185cm","75kg","250080523","47","Full-back","1"
-"Benedikt Höwedes","Germany","Defender","29/02/1988 (28)","36",NA,"29/05/2011: 
+          (Paris)","Köln (GER)","185cm","75kg","250080523","47","Full-back","1"
+"Benedikt Höwedes","Germany","Defender","29/02/1988 (28)","37",NA,"29/05/2011: 
           Germany
           2-1
-          Uruguay","16/06/2016:
+          Uruguay","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Schalke (GER)","187cm","82kg","108131","47","Central defender","2"
-"Mats Hummels","Germany","Defender","16/12/1988 (27)","47",NA,"13/05/2010: 
+          (Paris)","Schalke (GER)","187cm","82kg","108131","47","Central defender","2"
+"Mats Hummels","Germany","Defender","16/12/1988 (27)","48",NA,"13/05/2010: 
           Germany
           3-0
-          Malta","16/06/2016:
+          Malta","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Dortmund (GER)","191cm","92kg","106587","47","Central defender","4"
+          (Paris)","Dortmund (GER)","191cm","92kg","106587","47","Central defender","4"
 "Jonathan Tah","Germany","Defender","11/02/1996 (20)","1",NA,"-","26/03/2016:
           Germany
           2-3
           England
           (Berlin)","Leverkusen (GER)","-","-","250055660","47","Central defender","0"
-"Jérôme Boateng","Germany","Defender","03/09/1988 (27)","61",NA,"10/10/2009: 
+"Jérôme Boateng","Germany","Defender","03/09/1988 (27)","62",NA,"10/10/2009: 
           Russia
           0-1
           Germany
-          (Moscow)","16/06/2016:
+          (Moscow)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Bayern (GER)","192cm","90kg","98865","47","Central defender","0"
-"Joshua Kimmich","Germany","Defender","08/02/1995 (21)","1",NA,"29/05/2016: 
-          Germany
-          1-3
-          Slovakia
-          (Augsburg)","29/05/2016:
+          (Paris)","Bayern (GER)","192cm","90kg","98865","47","Central defender","0"
+"Joshua Kimmich","Germany","Defender","08/02/1995 (21)","2",NA,"29/05/2016: 
           Germany
           1-3
           Slovakia
-          (Augsburg)","Bayern (GER)","176cm","70kg","250070417","47","Central defender","0"
-"Sami Khedira","Germany","Midfield","04/04/1987 (29)","62",NA,"05/09/2009: 
+          (Augsburg)","21/06/2016:
+          Northern Ireland
+          0-1
+          Germany
+          (Paris)","Bayern (GER)","176cm","70kg","250070417","47","Central defender","0"
+"Sami Khedira","Germany","Midfield","04/04/1987 (29)","63",NA,"05/09/2009: 
           Germany
           2-0
-          South Africa","16/06/2016:
+          South Africa","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Juventus (ITA)","189cm","90kg","74327","47","Defensive midfielder","5"
-"Bastian Schweinsteiger","Germany","Midfield","01/08/1984 (31)","116",NA,"06/06/2004: 
+          (Paris)","Juventus (ITA)","189cm","90kg","74327","47","Defensive midfielder","5"
+"Bastian Schweinsteiger","Germany","Midfield","01/08/1984 (31)","117",NA,"06/06/2004: 
           Germany
           0-2
           Hungary
-          (Kaiserslautern)","12/06/2016:
+          (Kaiserslautern)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          2-0
-          Ukraine
-          (Lille Métropole)","Man. United (ENG)","183cm","79kg","67496","47","Central midfielder","24"
-"Mesut Özil","Germany","Midfield","15/10/1988 (27)","75",NA,"11/02/2009: 
+          (Paris)","Man. United (ENG)","183cm","79kg","67496","47","Central midfielder","24"
+"Mesut Özil","Germany","Midfield","15/10/1988 (27)","76",NA,"11/02/2009: 
           Germany
           0-1
           Norway
-          (Dusseldorf)","16/06/2016:
+          (Dusseldorf)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Arsenal (ENG)","180cm","76kg","103697","47","Attacking midfielder","19"
-"André Schürrle","Germany","Midfield","06/11/1990 (25)","54",NA,"17/11/2010: 
+          (Paris)","Arsenal (ENG)","180cm","76kg","103697","47","Attacking midfielder","19"
+"André Schürrle","Germany","Midfield","06/11/1990 (25)","55",NA,"17/11/2010: 
           Sweden
           0-0
           Germany
-          (Gothenburg)","16/06/2016:
+          (Gothenburg)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Wolfsburg (GER)","184cm","74kg","250005337","47","Winger","20"
+          (Paris)","Wolfsburg (GER)","184cm","74kg","250005337","47","Winger","20"
 "Julian Draxler","Germany","Midfield","20/09/1993 (22)","21",NA,"26/05/2012: 
           Switzerland
           5-3
@@ -1748,23 +1748,23 @@
           1-3
           Slovakia
           (Augsburg)","Dortmund (GER)","186cm","71kg","250070415","47","Defensive midfielder","0"
-"Toni Kroos","Germany","Midfield","04/01/1990 (26)","67",NA,"03/03/2010: 
+"Toni Kroos","Germany","Midfield","04/01/1990 (26)","68",NA,"03/03/2010: 
           Germany
           0-1
-          Argentina","16/06/2016:
+          Argentina","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Real Madrid (ESP)","182cm","78kg","103147","47","Central midfielder","11"
-"Mario Götze","Germany","Midfield","03/06/1992 (24)","54",NA,"17/11/2010: 
+          (Paris)","Real Madrid (ESP)","182cm","78kg","103147","47","Central midfielder","11"
+"Mario Götze","Germany","Midfield","03/06/1992 (24)","55",NA,"17/11/2010: 
           Sweden
           0-0
           Germany
-          (Gothenburg)","16/06/2016:
+          (Gothenburg)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Bayern (GER)","176cm","64kg","250007605","47","Forward","17"
+          (Paris)","Bayern (GER)","176cm","64kg","250007605","47","Forward","17"
 "Leroy Sané","Germany","Midfield","11/01/1996 (20)","3",NA,"13/11/2015: 
           France
           2-0
@@ -1783,23 +1783,23 @@
           2-0
           Hungary
           (Gelsenkirchen)","Galatasaray (TUR)","182cm","83kg","62594","47","Forward","48"
-"Thomas Müller","Germany","Forward","13/09/1989 (26)","73",NA,"03/03/2010: 
+"Thomas Müller","Germany","Forward","13/09/1989 (26)","74",NA,"03/03/2010: 
           Germany
           0-1
-          Argentina","16/06/2016:
+          Argentina","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Bayern (GER)","186cm","74kg","250003318","47","Winger","32"
-"Mario Gomez","Germany","Forward","10/07/1985 (30)","65",NA,"07/02/2007: 
+          (Paris)","Bayern (GER)","186cm","74kg","250003318","47","Winger","32"
+"Mario Gomez","Germany","Forward","10/07/1985 (30)","66",NA,"07/02/2007: 
           Germany
           3-1
           Switzerland
-          (Dusseldorf)","16/06/2016:
+          (Dusseldorf)","21/06/2016:
+          Northern Ireland
+          0-1
           Germany
-          0-0
-          Poland
-          (Saint-Denis)","Beşiktaş (TUR)","189cm","93kg","62588","47","Forward","27"
+          (Paris)","Beşiktaş (TUR)","189cm","93kg","62588","47","Forward","28"
 "Wojciech Szczęsny","Poland","Goalkeeper","18/04/1990 (26)","27","19","18/11/2009: 
           Poland
           1-0
@@ -1818,41 +1818,41 @@
           0-0
           Lithuania
           (Krakow)","Bournemouth (ENG)","193cm","88kg","46853","109","Goalkeeper",NA
-"Łukasz Fabiański","Poland","Goalkeeper","18/04/1985 (31)","31","21","28/03/2006: 
+"Łukasz Fabiański","Poland","Goalkeeper","18/04/1985 (31)","32","21","28/03/2006: 
           Saudi Arabia
           1-2
-          Poland","16/06/2016:
-          Germany
-          0-0
+          Poland","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Swansea (ENG)","190cm","83kg","62333","109","Goalkeeper",NA
-"Michał Pazdan","Poland","Defender","21/09/1987 (28)","17",NA,"27/02/2008: 
+          (Marseille)","Swansea (ENG)","190cm","83kg","62333","109","Goalkeeper",NA
+"Michał Pazdan","Poland","Defender","21/09/1987 (28)","18",NA,"27/02/2008: 
           Poland
           2-0
           Estonia
-          (Wronki)","16/06/2016:
-          Germany
-          0-0
+          (Wronki)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Legia (POL)","181cm","78kg","250000026","109","Central defender","0"
-"Artur Jędrzejczyk","Poland","Defender","04/11/1987 (28)","20",NA,"12/10/2010: 
+          (Marseille)","Legia (POL)","181cm","78kg","250000026","109","Central defender","0"
+"Artur Jędrzejczyk","Poland","Defender","04/11/1987 (28)","21",NA,"12/10/2010: 
           Ecuador
           2-2
           Poland
-          (Montreal)","16/06/2016:
+          (Montreal)","21/06/2016:
+          Ukraine
+          0-1
+          Poland
+          (Marseille)","Legia (POL)","189cm","78kg","105666","109","Full-back","3"
+"Thiago Cionek","Poland","Defender","21/04/1986 (30)","7",NA,"13/05/2014: 
           Germany
           0-0
           Poland
-          (Saint-Denis)","Legia (POL)","189cm","78kg","105666","109","Full-back","3"
-"Thiago Cionek","Poland","Defender","21/04/1986 (30)","6",NA,"13/05/2014: 
-          Germany
-          0-0
+          (Hamburg)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Hamburg)","06/06/2016:
-          Poland
-          0-0
-          Lithuania
-          (Krakow)","Palermo (ITA)","184cm","80kg","250031551","109","Central defender","0"
+          (Marseille)","Palermo (ITA)","184cm","80kg","250031551","109","Central defender","0"
 "Jakub Wawrzyniak","Poland","Defender","07/07/1983 (32)","46",NA,"06/12/2006: 
           United Arab Emirates
           2-5
@@ -1861,14 +1861,14 @@
           0-0
           Lithuania
           (Krakow)","Lechia (POL)","188cm","85kg","1902722","109","Full-back","1"
-"Kamil Glik","Poland","Defender","03/02/1988 (28)","43",NA,"20/01/2010: 
+"Kamil Glik","Poland","Defender","03/02/1988 (28)","44",NA,"20/01/2010: 
           Thailand
           1-3
-          Poland","16/06/2016:
-          Germany
-          0-0
+          Poland","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Torino (ITA)","190cm","80kg","1902388","109","Central defender","3"
+          (Marseille)","Torino (ITA)","190cm","80kg","1902388","109","Central defender","3"
 "Bartosz Salamon","Poland","Defender","01/05/1991 (25)","8",NA,"26/03/2013: 
           Poland
           5-0
@@ -1895,15 +1895,15 @@
           0-0
           Poland
           (Saint-Denis)","Wisła (POL)","175cm","66kg","250002269","109","Central midfielder","1"
-"Tomasz Jodłowiec","Poland","Midfield","08/09/1985 (30)","45",NA,"11/10/2008: 
+"Tomasz Jodłowiec","Poland","Midfield","08/09/1985 (30)","46",NA,"11/10/2008: 
           Poland
           2-1
           Czech Republic
-          (Chorzow)","16/06/2016:
-          Germany
-          0-0
+          (Chorzow)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Legia (POL)","189cm","91kg","1903950","109","Defensive midfielder","1"
+          (Marseille)","Legia (POL)","189cm","91kg","1903950","109","Defensive midfielder","1"
 "Karol Linetty","Poland","Midfield","02/02/1995 (21)","10",NA,"18/01/2014: 
           Poland
           3-0
@@ -1912,32 +1912,32 @@
           1-2
           Netherlands
           (Gdansk)","Lech (POL)","176cm","74kg","250042409","109","Central midfielder","1"
-"Grzegorz Krychowiak","Poland","Midfield","29/01/1990 (26)","36",NA,"14/12/2008: 
+"Grzegorz Krychowiak","Poland","Midfield","29/01/1990 (26)","37",NA,"14/12/2008: 
           Serbia
           0-1
           Poland
-          (Antalya)","16/06/2016:
-          Germany
-          0-0
+          (Antalya)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Sevilla (ESP)","186cm","83kg","102092","109","Defensive midfielder","2"
-"Kamil Grosicki","Poland","Midfield","08/06/1988 (28)","40",NA,"27/02/2008: 
+          (Marseille)","Sevilla (ESP)","186cm","83kg","102092","109","Defensive midfielder","2"
+"Kamil Grosicki","Poland","Midfield","08/06/1988 (28)","41",NA,"27/02/2008: 
           Poland
           2-0
           Estonia
-          (Wronki)","16/06/2016:
-          Germany
-          0-0
+          (Wronki)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Rennes (FRA)","180cm","78kg","108235","109","Winger","8"
-"Jakub Błaszczykowski","Poland","Midfield","14/12/1985 (30)","81",NA,"28/03/2006: 
+          (Marseille)","Rennes (FRA)","180cm","78kg","108235","109","Winger","8"
+"Jakub Błaszczykowski","Poland","Midfield","14/12/1985 (30)","82",NA,"28/03/2006: 
           Saudi Arabia
           1-2
-          Poland","16/06/2016:
-          Germany
-          0-0
+          Poland","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Fiorentina (ITA)","176cm","77kg","93621","109","Winger","16"
+          (Marseille)","Fiorentina (ITA)","176cm","77kg","93621","109","Winger","17"
 "Sławomir Peszko","Poland","Midfield","19/02/1985 (31)","39",NA,"19/11/2008: 
           Republic of Ireland
           2-3
@@ -1947,50 +1947,50 @@
           0-0
           Poland
           (Saint-Denis)","Lechia (POL)","173cm","70kg","64166","109","Winger","2"
-"Piotr Zieliński","Poland","Midfield","20/05/1994 (22)","15",NA,"04/06/2013: 
+"Piotr Zieliński","Poland","Midfield","20/05/1994 (22)","16",NA,"04/06/2013: 
           Poland
           2-0
-          Liechtenstein","06/06/2016:
+          Liechtenstein","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          0-0
-          Lithuania
-          (Krakow)","Empoli (ITA)","177cm","64kg","250024370","109","Attacking midfielder","3"
-"Bartosz Kapustka","Poland","Midfield","23/12/1996 (19)","9",NA,"07/09/2015: 
+          (Marseille)","Empoli (ITA)","177cm","64kg","250024370","109","Attacking midfielder","3"
+"Bartosz Kapustka","Poland","Midfield","23/12/1996 (19)","10",NA,"07/09/2015: 
           Poland
           8-1
           Gibraltar
-          (Warsaw)","16/06/2016:
-          Germany
-          0-0
+          (Warsaw)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","()","179cm","60kg","250078703","109","Winger","2"
-"Filip Starzyński","Poland","Midfield","27/05/1991 (25)","3",NA,"07/09/2014: 
+          (Marseille)","()","179cm","60kg","250078703","109","Winger","2"
+"Filip Starzyński","Poland","Midfield","27/05/1991 (25)","4",NA,"07/09/2014: 
           Gibraltar
           0-7
           Poland
-          (Faro-Loule)","06/06/2016:
+          (Faro-Loule)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          0-0
-          Lithuania
-          (Krakow)","Zagłębie (POL)","184cm","72kg","250051033","109","Attacking midfielder","1"
-"Arkadiusz Milik","Poland","Forward","28/02/1994 (22)","28",NA,"12/10/2012: 
+          (Marseille)","Zagłębie (POL)","184cm","72kg","250051033","109","Attacking midfielder","1"
+"Arkadiusz Milik","Poland","Forward","28/02/1994 (22)","29",NA,"12/10/2012: 
           Poland
           1-0
           South Africa
-          (Warsaw)","16/06/2016:
-          Germany
-          0-0
+          (Warsaw)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Ajax (NED)","186cm","78kg","250043124","109","Forward","11"
-"Robert Lewandowski","Poland","Forward","21/08/1988 (27)","78",NA,"10/09/2008: 
+          (Marseille)","Ajax (NED)","186cm","78kg","250043124","109","Forward","11"
+"Robert Lewandowski","Poland","Forward","21/08/1988 (27)","79",NA,"10/09/2008: 
           San Marino
           0-2
           Poland
-          (Serravalle)","16/06/2016:
-          Germany
-          0-0
+          (Serravalle)","21/06/2016:
+          Ukraine
+          0-1
           Poland
-          (Saint-Denis)","Bayern (GER)","184cm","78kg","250002096","109","Forward","34"
+          (Marseille)","Bayern (GER)","184cm","78kg","250002096","109","Forward","34"
 "Mariusz Stępiński","Poland","Forward","12/05/1995 (21)","2",NA,"13/11/2015: 
           Poland
           4-2
@@ -1999,14 +1999,14 @@
           1-2
           Netherlands
           (Gdansk)","Ruch (POL)","183cm","73kg","250042413","109","Forward","0"
-"Michael McGovern","Northern Ireland","Goalkeeper","12/07/1984 (31)","13","8","30/05/2010: 
+"Michael McGovern","Northern Ireland","Goalkeeper","12/07/1984 (31)","14","9","30/05/2010: 
           Chile
           1-0
-          Northern Ireland","16/06/2016:
-          Ukraine
-          0-2
+          Northern Ireland","21/06/2016:
           Northern Ireland
-          (Lyon)","Hamilton (SCO)","191cm","89kg","69073","63","Goalkeeper",NA
+          0-1
+          Germany
+          (Paris)","Hamilton (SCO)","191cm","89kg","69073","63","Goalkeeper",NA
 "Roy Carroll","Northern Ireland","Goalkeeper","30/09/1977 (38)","44","40","21/05/1997: 
           Thailand
           0-0
@@ -2014,7 +2014,7 @@
           Northern Ireland
           3-0
           Belarus
-          (Belfast)","Notts County (ENG)","188cm","80kg","30243","63","Goalkeeper",NA
+          (Belfast)","Linfield (NIR)","188cm","80kg","30243","63","Goalkeeper",NA
 "Alan Mannus","Northern Ireland","Goalkeeper","19/05/1982 (34)","8","1","06/06/2004: 
           Trinidad and Tobago
           0-3
@@ -2033,24 +2033,24 @@
           1-0
           Northern Ireland
           (Nice)","Fleetwood (ENG)","183cm","71kg","1908055","63","Full-back","0"
-"Gareth McAuley","Northern Ireland","Defender","05/12/1979 (36)","63",NA,"04/06/2005: 
+"Gareth McAuley","Northern Ireland","Defender","05/12/1979 (36)","64",NA,"04/06/2005: 
           Northern Ireland
           1-4
           Germany
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","West Brom (ENG)","195cm","90kg","65248","63","Central defender","8"
-"Jonny Evans","Northern Ireland","Defender","03/01/1988 (28)","51",NA,"06/09/2006: 
+          0-1
+          Germany
+          (Paris)","West Brom (ENG)","195cm","90kg","65248","63","Central defender","8"
+"Jonny Evans","Northern Ireland","Defender","03/01/1988 (28)","52",NA,"06/09/2006: 
           Northern Ireland
           3-2
           Spain
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","West Brom (ENG)","188cm","77kg","98171","63","Central defender","1"
+          0-1
+          Germany
+          (Paris)","West Brom (ENG)","188cm","77kg","98171","63","Central defender","1"
 "Chris Baird","Northern Ireland","Defender","25/02/1982 (34)","79",NA,"03/06/2003: 
           Italy
           2-0
@@ -2077,24 +2077,24 @@
           0-2
           Northern Ireland
           (Lyon)","Man. United (ENG)","183cm","72kg","250042799","63","Defensive midfielder","0"
-"Aaron Hughes","Northern Ireland","Defender","08/11/1979 (36)","101",NA,"25/03/1998: 
+"Aaron Hughes","Northern Ireland","Defender","08/11/1979 (36)","102",NA,"25/03/1998: 
           Northern Ireland
           1-0
           Slovakia
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","Melbourne City (AUS)","183cm","78kg","30680","63","Central defender","1"
-"Craig Cathcart","Northern Ireland","Defender","06/02/1989 (27)","30",NA,"03/09/2010: 
+          0-1
+          Germany
+          (Paris)","Melbourne City (AUS)","183cm","78kg","30680","63","Central defender","1"
+"Craig Cathcart","Northern Ireland","Defender","06/02/1989 (27)","31",NA,"03/09/2010: 
           Slovenia
           0-1
           Northern Ireland
-          (Maribor)","16/06/2016:
-          Ukraine
-          0-2
+          (Maribor)","21/06/2016:
           Northern Ireland
-          (Lyon)","Watford (ENG)","188cm","73kg","98918","63","Central defender","2"
+          0-1
+          Germany
+          (Paris)","Watford (ENG)","188cm","73kg","98918","63","Central defender","2"
 "Lee Hodson","Northern Ireland","Defender","02/10/1991 (24)","16",NA,"17/11/2010: 
           Northern Ireland
           1-1
@@ -2111,67 +2111,67 @@
           1-0
           Northern Ireland
           (Nice)","Millwall (ENG)","176cm","65kg","1908076","63","Winger","1"
-"Steven Davis","Northern Ireland","Midfield","01/01/1985 (31)","85",NA,"09/02/2005: 
+"Steven Davis","Northern Ireland","Midfield","01/01/1985 (31)","86",NA,"09/02/2005: 
           Northern Ireland
           0-1
           Canada
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","Southampton (ENG)","172cm","72kg","62176","63","Central midfielder","8"
-"Corry Evans","Northern Ireland","Midfield","30/07/1990 (25)","35",NA,"06/06/2009: 
+          0-1
+          Germany
+          (Paris)","Southampton (ENG)","172cm","72kg","62176","63","Central midfielder","8"
+"Corry Evans","Northern Ireland","Midfield","30/07/1990 (25)","36",NA,"06/06/2009: 
           Italy
           3-0
-          Northern Ireland","16/06/2016:
-          Ukraine
-          0-2
+          Northern Ireland","21/06/2016:
           Northern Ireland
-          (Lyon)","Blackburn (ENG)","173cm","70kg","1901633","63","Central midfielder","1"
-"Stuart Dallas","Northern Ireland","Midfield","19/04/1991 (25)","15",NA,"27/05/2011: 
+          0-1
+          Germany
+          (Paris)","Blackburn (ENG)","173cm","70kg","1901633","63","Central midfielder","1"
+"Stuart Dallas","Northern Ireland","Midfield","19/04/1991 (25)","16",NA,"27/05/2011: 
           Wales
           2-0
-          Northern Ireland","16/06/2016:
-          Ukraine
-          0-2
+          Northern Ireland","21/06/2016:
           Northern Ireland
-          (Lyon)","Leeds (ENG)","186cm","81kg","1908072","63","Winger","1"
-"Oliver Norwood","Northern Ireland","Midfield","12/04/1991 (25)","36",NA,"11/08/2010: 
+          0-1
+          Germany
+          (Paris)","Leeds (ENG)","186cm","81kg","1908072","63","Winger","1"
+"Oliver Norwood","Northern Ireland","Midfield","12/04/1991 (25)","37",NA,"11/08/2010: 
           Montenegro
           2-0
           Northern Ireland
-          (Podgorica)","16/06/2016:
-          Ukraine
-          0-2
+          (Podgorica)","21/06/2016:
           Northern Ireland
-          (Lyon)","Reading (ENG)","180cm","76kg","1907885","63","Central midfielder","0"
-"Jamie Ward","Northern Ireland","Midfield","12/05/1986 (30)","24",NA,"10/08/2011: 
+          0-1
+          Germany
+          (Paris)","Reading (ENG)","180cm","76kg","1907885","63","Central midfielder","0"
+"Jamie Ward","Northern Ireland","Midfield","12/05/1986 (30)","25",NA,"10/08/2011: 
           Northern Ireland
           4-0
           Faroe Islands
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","Nottm Forest (ENG)","165cm","68kg","98655","63","Forward","2"
-"Josh Magennis","Northern Ireland","Midfield","15/08/1990 (25)","20",NA,"26/05/2010: 
+          0-1
+          Germany
+          (Paris)","Nottm Forest (ENG)","165cm","68kg","98655","63","Forward","2"
+"Josh Magennis","Northern Ireland","Midfield","15/08/1990 (25)","21",NA,"26/05/2010: 
           Turkey
           2-0
           Northern Ireland
-          (New Britain)","16/06/2016:
-          Ukraine
-          0-2
+          (New Britain)","21/06/2016:
           Northern Ireland
-          (Lyon)","Kilmarnock (SCO)","188cm","92kg","1901158","63","Forward","1"
-"Niall McGinn","Northern Ireland","Forward","20/07/1987 (28)","43",NA,"19/11/2008: 
+          0-1
+          Germany
+          (Paris)","Kilmarnock (SCO)","188cm","92kg","1901158","63","Forward","1"
+"Niall McGinn","Northern Ireland","Forward","20/07/1987 (28)","44",NA,"19/11/2008: 
           Northern Ireland
           0-2
           Hungary
-          (Belfast)","16/06/2016:
-          Ukraine
-          0-2
+          (Belfast)","21/06/2016:
           Northern Ireland
-          (Lyon)","Aberdeen (SCO)","183cm","70kg","104747","63","Winger","3"
+          0-1
+          Germany
+          (Paris)","Aberdeen (SCO)","183cm","70kg","104747","63","Winger","3"
 "Will Grigg","Northern Ireland","Forward","03/07/1991 (24)","8",NA,"02/06/2012: 
           Netherlands
           6-0
@@ -2189,15 +2189,15 @@
           1-0
           Northern Ireland
           (Nice)","Birmingham (ENG)","193cm","88kg","92995","63","Forward","17"
-"Conor Washington","Northern Ireland","Forward","18/05/1992 (24)","6",NA,"24/03/2016: 
+"Conor Washington","Northern Ireland","Forward","18/05/1992 (24)","7",NA,"24/03/2016: 
           Wales
           1-1
           Northern Ireland
-          (Cardiff)","16/06/2016:
-          Ukraine
-          0-2
+          (Cardiff)","21/06/2016:
           Northern Ireland
-          (Lyon)","QPR (ENG)","178cm","74kg","250097249","63","Forward","2"
+          0-1
+          Germany
+          (Paris)","QPR (ENG)","178cm","74kg","250097249","63","Forward","2"
 "Denys Boyko","Ukraine","Goalkeeper","29/01/1988 (28)","4","2","18/11/2014: 
           Ukraine
           0-0
@@ -2207,43 +2207,43 @@
           1-0
           Cyprus
           (Odessa)","Beşiktaş (TUR)","194cm","82kg","98113","57166","Goalkeeper",NA
-"Andriy Pyatov","Ukraine","Goalkeeper","28/06/1984 (31)","66","44","22/08/2007: 
+"Andriy Pyatov","Ukraine","Goalkeeper","28/06/1984 (31)","67","45","22/08/2007: 
           Ukraine
           2-1
           Uzbekistan
-          (Kyiv)","16/06/2016:
+          (Kyiv)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Shakhtar Donetsk (UKR)","190cm","84kg","67855","57166","Goalkeeper",NA
+          0-1
+          Poland
+          (Marseille)","Shakhtar Donetsk (UKR)","190cm","84kg","67855","57166","Goalkeeper",NA
 "Mykyta Shevchenko","Ukraine","Goalkeeper","26/01/1993 (23)","0","0","-","-","Zorya (UKR)","187cm","80kg","250054395","57166","Goalkeeper",NA
-"Bohdan Butko","Ukraine","Defender","13/01/1991 (25)","17",NA,"02/09/2011: 
+"Bohdan Butko","Ukraine","Defender","13/01/1991 (25)","18",NA,"02/09/2011: 
           Ukraine
           2-3
           Uruguay
-          (Kharkiv)","03/06/2016:
-          Albania
-          1-3
+          (Kharkiv)","21/06/2016:
           Ukraine
-          (Bergamo)","Amkar (RUS)","180cm","68kg","1906029","57166","Central defender","0"
-"Yevhen Khacheridi","Ukraine","Defender","28/07/1987 (28)","44",NA,"10/10/2009: 
+          0-1
+          Poland
+          (Marseille)","Amkar (RUS)","180cm","68kg","1906029","57166","Central defender","0"
+"Yevhen Khacheridi","Ukraine","Defender","28/07/1987 (28)","45",NA,"10/10/2009: 
           Ukraine
           1-0
           England
-          (Dnipropetrovsk)","16/06/2016:
+          (Dnipropetrovsk)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Dynamo Kyiv (UKR)","198cm","85kg","250011944","57166","Central defender","3"
-"Olexandr Kucher","Ukraine","Defender","22/10/1982 (33)","50",NA,"15/08/2006: 
+          0-1
+          Poland
+          (Marseille)","Dynamo Kyiv (UKR)","198cm","85kg","250011944","57166","Central defender","3"
+"Olexandr Kucher","Ukraine","Defender","22/10/1982 (33)","51",NA,"15/08/2006: 
           Ukraine
           6-0
           Azerbaijan
-          (Kyiv)","29/05/2016:
-          Romania
-          3-4
+          (Kyiv)","21/06/2016:
           Ukraine
-          (Turin)","Shakhtar Donetsk (UKR)","184cm","77kg","71596","57166","Central defender","2"
+          0-1
+          Poland
+          (Marseille)","Shakhtar Donetsk (UKR)","184cm","77kg","71596","57166","Central defender","2"
 "Vyacheslav Shevchuk","Ukraine","Defender","13/05/1979 (37)","55",NA,"30/04/2003: 
           Denmark
           1-0
@@ -2253,15 +2253,15 @@
           0-2
           Northern Ireland
           (Lyon)","Shakhtar Donetsk (UKR)","184cm","78kg","55031","57166","Full-back","0"
-"Artem Fedetskiy","Ukraine","Defender","26/04/1985 (31)","51",NA,"25/05/2010: 
+"Artem Fedetskiy","Ukraine","Defender","26/04/1985 (31)","52",NA,"25/05/2010: 
           Ukraine
           4-0
           Lithuania
-          (Kharkiv)","16/06/2016:
+          (Kharkiv)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Dnipro (UKR)","183cm","76kg","98610","57166","Full-back","2"
+          0-1
+          Poland
+          (Marseille)","Dnipro (UKR)","183cm","76kg","98610","57166","Full-back","2"
 "Yaroslav Rakitskiy","Ukraine","Defender","03/08/1989 (26)","42",NA,"10/10/2009: 
           Ukraine
           1-0
@@ -2271,60 +2271,60 @@
           0-2
           Northern Ireland
           (Lyon)","Shakhtar Donetsk (UKR)","180cm","70kg","250008930","57166","Central defender","4"
-"Anatoliy Tymoshchuk","Ukraine","Midfield","30/03/1979 (37)","143",NA,"26/04/2000: 
+"Anatoliy Tymoshchuk","Ukraine","Midfield","30/03/1979 (37)","144",NA,"26/04/2000: 
           Bulgaria
           0-1
           Ukraine
-          (Sofia)","03/06/2016:
-          Albania
-          1-3
+          (Sofia)","21/06/2016:
           Ukraine
-          (Bergamo)","Kairat (KAZ)","181cm","70kg","34629","57166","Defensive midfielder","4"
-"Taras Stepanenko","Ukraine","Midfield","08/08/1989 (26)","31",NA,"17/11/2010: 
+          0-1
+          Poland
+          (Marseille)","Kairat (KAZ)","181cm","70kg","34629","57166","Defensive midfielder","4"
+"Taras Stepanenko","Ukraine","Midfield","08/08/1989 (26)","32",NA,"17/11/2010: 
           Switzerland
           2-2
           Ukraine
-          (Geneva)","16/06/2016:
+          (Geneva)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Shakhtar Donetsk (UKR)","181cm","75kg","1902685","57166","Defensive midfielder","3"
-"Andriy Yarmolenko","Ukraine","Midfield","23/10/1989 (26)","61",NA,"05/09/2009: 
+          0-1
+          Poland
+          (Marseille)","Shakhtar Donetsk (UKR)","181cm","75kg","1902685","57166","Defensive midfielder","3"
+"Andriy Yarmolenko","Ukraine","Midfield","23/10/1989 (26)","62",NA,"05/09/2009: 
           Ukraine
           5-0
           Andorra
-          (Kyiv)","16/06/2016:
+          (Kyiv)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Dynamo Kyiv (UKR)","189cm","81kg","250000069","57166","Winger","25"
-"Viktor Kovalenko","Ukraine","Midfield","14/02/1996 (20)","5",NA,"24/03/2016: 
+          0-1
+          Poland
+          (Marseille)","Dynamo Kyiv (UKR)","189cm","81kg","250000069","57166","Winger","25"
+"Viktor Kovalenko","Ukraine","Midfield","14/02/1996 (20)","6",NA,"24/03/2016: 
           Ukraine
           1-0
           Cyprus
-          (Odessa)","16/06/2016:
+          (Odessa)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Shakhtar Donetsk (UKR)","182cm","75kg","250056865","57166","Attacking midfielder","0"
-"Yevhen Konoplyanka","Ukraine","Midfield","29/09/1989 (26)","55",NA,"25/05/2010: 
+          0-1
+          Poland
+          (Marseille)","Shakhtar Donetsk (UKR)","182cm","75kg","250056865","57166","Attacking midfielder","0"
+"Yevhen Konoplyanka","Ukraine","Midfield","29/09/1989 (26)","56",NA,"25/05/2010: 
           Ukraine
           4-0
           Lithuania
-          (Kharkiv)","16/06/2016:
+          (Kharkiv)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Sevilla (ESP)","176cm","69kg","1905873","57166","Winger","13"
-"Ruslan Rotan","Ukraine","Midfield","29/10/1981 (34)","88",NA,"12/02/2003: 
+          0-1
+          Poland
+          (Marseille)","Sevilla (ESP)","176cm","69kg","1905873","57166","Winger","13"
+"Ruslan Rotan","Ukraine","Midfield","29/10/1981 (34)","89",NA,"12/02/2003: 
           Turkey
           0-0
           Ukraine
-          (Izmir)","03/06/2016:
-          Albania
-          1-3
+          (Izmir)","21/06/2016:
           Ukraine
-          (Bergamo)","Dnipro (UKR)","174cm","67kg","54090","57166","Central midfielder","7"
+          0-1
+          Poland
+          (Marseille)","Dnipro (UKR)","174cm","67kg","54090","57166","Central midfielder","7"
 "Serhiy Sydorchuk","Ukraine","Midfield","02/05/1991 (25)","14",NA,"09/10/2014: 
           Belarus
           0-2
@@ -2351,15 +2351,15 @@
           0-2
           Northern Ireland
           (Lyon)","Dynamo Kyiv (UKR)","186cm","72kg","1902207","57166","Attacking midfielder","2"
-"Olexandr Zinchenko","Ukraine","Midfield","15/12/1996 (19)","5",NA,"12/10/2015: 
+"Olexandr Zinchenko","Ukraine","Midfield","15/12/1996 (19)","6",NA,"12/10/2015: 
           Ukraine
           0-1
           Spain
-          (Kyiv)","16/06/2016:
+          (Kyiv)","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Ufa (RUS)","175cm","61kg","250056861","57166","Central midfielder","1"
+          0-1
+          Poland
+          (Marseille)","Ufa (RUS)","175cm","61kg","250056861","57166","Central midfielder","1"
 "Olexandr Karavaev","Ukraine","Midfield","02/06/1992 (24)","3",NA,"09/10/2015: 
           FYR Macedonia
           0-2
@@ -2369,14 +2369,14 @@
           3-4
           Ukraine
           (Turin)","Zorya (UKR)","173cm","65kg","250004740","57166","Winger","0"
-"Roman Zozulya","Ukraine","Forward","17/11/1989 (26)","28",NA,"02/06/2010: 
+"Roman Zozulya","Ukraine","Forward","17/11/1989 (26)","29",NA,"02/06/2010: 
           Norway
           0-1
-          Ukraine","16/06/2016:
+          Ukraine","21/06/2016:
           Ukraine
-          0-2
-          Northern Ireland
-          (Lyon)","Dnipro (UKR)","176cm","72kg","102745","57166","Forward","4"
+          0-1
+          Poland
+          (Marseille)","Dnipro (UKR)","176cm","72kg","102745","57166","Forward","4"
 "Yevhen Seleznyov","Ukraine","Forward","20/07/1985 (30)","52",NA,"24/05/2008: 
           Netherlands
           3-0
@@ -4639,7 +4639,7 @@
           2-1
           Malta
           (Klagenfurt)","Ingolstadt (GER)","179cm","72kg","74442","8","Full-back","0"
-"Sebastian Prödl","Austria","Defender","21/06/1987 (28)","58",NA,"30/05/2007: 
+"Sebastian Prödl","Austria","Defender","21/06/1987 (29)","58",NA,"30/05/2007: 
           Austria
           0-1
           Scotland
@@ -4657,14 +4657,14 @@
           0-0
           Austria
           (Paris)","Tottenham (ENG)","187cm","85kg","250043066","8","Central defender","0"
-"Florian Klein","Austria","Defender","17/11/1986 (29)","38",NA,"19/05/2010: 
+"Florian Klein","Austria","Defender","17/11/1986 (29)","39",NA,"19/05/2010: 
           Austria
           0-1
-          Croatia","14/06/2016:
+          Croatia","18/06/2016:
+          Portugal
+          0-0
           Austria
-          0-2
-          Hungary
-          (Bordeaux)","Stuttgart (GER)","180cm","66kg","97290","8","Full-back","0"
+          (Paris)","Stuttgart (GER)","180cm","66kg","97290","8","Full-back","0"
 "György Garics","Austria","Midfield","08/03/1984 (32)","41",NA,"06/10/2006: 
           Liechtenstein
           1-2
@@ -4719,15 +4719,15 @@
           0-0
           Austria
           (Paris)","Mainz (GER)","183cm","82kg","98843","8","Defensive midfielder","1"
-"Alessandro Schöpf","Austria","Midfield","07/02/1994 (22)","5",NA,"26/03/2016: 
+"Alessandro Schöpf","Austria","Midfield","07/02/1994 (22)","6",NA,"26/03/2016: 
           Austria
           2-1
           Albania
-          (Vienna)","14/06/2016:
+          (Vienna)","18/06/2016:
+          Portugal
+          0-0
           Austria
-          0-2
-          Hungary
-          (Bordeaux)","Schalke (GER)","178cm","75kg","250050403","8","Attacking midfielder","1"
+          (Paris)","Schalke (GER)","178cm","75kg","250050403","8","Attacking midfielder","1"
 "Marcel Sabitzer","Austria","Midfield","17/03/1994 (22)","20",NA,"05/06/2012: 
           Austria
           0-0

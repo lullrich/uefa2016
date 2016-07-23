@@ -1,4 +1,4 @@
-# Turns out Wikipedia has a nice page with all the teams, too.
+ # Turns out Wikipedia has a nice page with all the teams, too.
 # The format would be ideal - a table per team -, but to get the 
 # links for the players and clubs some additional scraping needs 
 # to be done.

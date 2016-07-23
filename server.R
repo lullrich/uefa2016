@@ -3,59 +3,111 @@
 
 options(stringsAsFactors = F, scipen = 999)
 library("shiny")
-library("ggplot2")
-library("plotly")
-library("rvest")
-library("tidyr")
-library("dplyr")
 library("data.table")
-library("lubridate")
+library("leaflet")
+library("ggplot2")
+library("ggthemes")
+library("plotly")
+library("scales")
 library("stringr")
-library("httr")
-library("jsonlite")
+
+clubs_data <- fread("data/tidy_club_data.csv")
 tm_player_data <- fread("data/player_data_tm_tidied.csv")
 uefa_player_data <- fread("data/player_data_tidied.csv")
 wiki_player_data <- fread("data/wikipedia_data_tidied.csv")
 
+
 shinyServer(function(input, output) {
-
   
-  select_data <- reactive({
-    country <- tm_player_data[country == input$country,]
-    return(country)
-    })
-  output$heightDistPlot <- renderPlot({
-
-    # generate bins based on input$bins from ui.R
-    plot_data    <- select_data()
-    player_height <- plot_data[,height]
-    bins <- seq(min(player_height), max(player_height), length.out = input$bins + 1)
-
-    # draw the histogram with the specified number of bins
-    hist(player_height, breaks = bins, col = 'lightblue', border = 'white')
-
+  
+  select_data1 <- reactive({
+    country1 <- tm_player_data[country == input$country1,]
+    return(country1)
   })
-  output$ageDistPlot <- renderPlot({
+  select_data2 <- reactive({
+    country2 <- tm_player_data[country == input$country2,]
+    return(country2)
+  })
+ 
+  output$heightDistPlot1 <- renderPlotly({
     
-    # generate bins based on input$bins from ui.R
-    plot_data    <- select_data()
-    player_age <- plot_data[,age]
-    bins <- seq(min(player_age), max(player_age), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(player_age, breaks = bins, col = 'lightblue', border = 'white')
+    plot_data    <- select_data1()
+    t <- str_c(unique(plot_data$country), " - Height")
+    p <- ggplot(plot_data, aes(x = height)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(height, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      theme_hc()
+    ggplotly(p)
     
   })
-  output$valueDistPlot <- renderPlot({
+  output$heightDistPlot2 <- renderPlotly({
     
-    # generate bins based on input$bins from ui.R
-    plot_data    <- select_data()
-    player_value <- plot_data[, tm_value]
-    bins <- seq(min(player_value), max(player_value), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(player_value, breaks = bins, col = 'lightblue', border = 'white', xaxt = "n")
-    axis(1, axTicks(1), format(axTicks(1), big.mark   = ",", scientific = F))
+    plot_data    <- select_data2()
+    t <- str_c(unique(plot_data$country), " - Height")
+    p <- ggplot(plot_data, aes(x = height)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(height, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      theme_hc()
+    ggplotly(p)
   })
-
+  output$ageDistPlot1 <- renderPlotly({
+    plot_data    <- select_data1()
+    t <- str_c(unique(plot_data$country), " - Age")
+    p <- ggplot(plot_data, aes(x = age)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(age, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      theme_hc()
+    ggplotly(p)
+  })
+  output$ageDistPlot2 <- renderPlotly({
+    plot_data    <- select_data2()
+    t <- str_c(unique(plot_data$country), " - Age")
+    p <- ggplot(plot_data, aes(x = age)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(age, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      theme_hc()
+      
+    ggplotly(p)
+    
+  })
+  output$valueDistPlot1 <- renderPlotly({
+    plot_data <- select_data1()
+    t <- str_c(unique(plot_data$country), " - Value")
+    p <- ggplot(plot_data, aes(x = tm_value)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(tm_value, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      scale_x_continuous(labels = comma) +
+      theme_hc()
+    ggplotly(p)
+  })
+  output$valueDistPlot2 <- renderPlotly({
+    plot_data    <- select_data2()
+    t <- str_c(unique(plot_data$country), " - Value")
+    p <- ggplot(plot_data, aes(x = tm_value)) +
+      ggtitle(t) +
+      geom_histogram(colour = "white", fill = "lightblue", bins = input$bins + 1) +
+      geom_vline(aes(xintercept = median(tm_value, na.rm = T)),   
+                 color="indianred2", size=.5) +
+      scale_x_continuous(labels = comma) +
+      theme_hc()
+    ggplotly(p)
+  })
+  output$map <- renderLeaflet({
+    leaflet(clubs_data) %>% 
+      addProviderTiles("CartoDB.Positron") %>% 
+      addCircleMarkers(radius = sqrt(clubs_data$number_of_players) * 5, 
+                       color = "#369", 
+                       weight = 0.5,
+                       popup = clubs_data$popup_content)
+  })
 })

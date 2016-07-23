@@ -1,13 +1,3 @@
-library("countrycode")
-library("plyr")
-
-# The league variable is stored in a 3 letter format that for the 
-# most part matches the IOC country codes from the countrycode package. 
-# The United Kingdom is coded as one though, because do not compete 
-# in the Olympics as 4 different countries. We have to manually add 
-# the codes for the 3 countries.
-GB <- data.frame(country.name = c("England", "Scotland", "Wales"), ioc = c("ENG", "SCO", "WAL"))
-countrycode_data <- rbind.fill(countrycode_data, GB)
 
 # Loading the data from disk passing a custom NA string, 
 # because some missing values were written in the table as "-"
@@ -19,6 +9,7 @@ players <- fread("data/player_data.csv", na.strings=c("NA", "-", "()"))
 for(cname in colnames(players)) {
   set(players, j = cname, value = str_replace_all(players[[cname]], "\\s+", " "))
 }
+
 
 players <- players %>% 
   separate(date_of_birth__age_, c("date_of_birth", "age"), sep = " ") %>% 
@@ -36,8 +27,17 @@ players <- players %>%
   mutate(caps = as.numeric(caps)) %>% 
   mutate(goals = as.numeric(goals)) %>% 
   mutate(goals_conceded = as.numeric(goals_conceded)) %>% 
-  mutate(league = countrycode(league, "ioc", "country.name", warn = TRUE))
+  mutate(league_country = countrycode(league, "ioc", "country.name", warn = TRUE))  
 
+# The league variable is stored in a 3 letter format that for the 
+# most part matches the IOC country codes from the countrycode package. 
+# The United Kingdom is coded as one though, because they do not compete 
+# in the Olympics as 4 different countries. We have to manually add 
+# the codes for the 4 countries.
+players[league == "ENG", league_country := "England"]
+players[league == "NIR", league_country := "Northern Ireland"]
+players[league == "SCO", league_country := "Scotland"]
+players[league == "WAL", league_country := "Wales"]
 # Convert all date columns into dates
 for(cname in colnames(select(players, contains("date")))) {
   set(players, j = cname, value = dmy(players[[cname]]))

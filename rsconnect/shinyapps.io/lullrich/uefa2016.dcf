@@ -1,0 +1,10 @@
+name: uefa2016
+account: lullrich
+server: shinyapps.io
+appId: 116194
+bundleId: 513235
+url: https://lullrich.shinyapps.io/uefa2016/
+when: 1469218996.08897
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: main.R|setup.R|data/club_data.csv|data/player_data.csv|data/player_data_tm.csv|data/query.txt|data/wikipedia_data.csv|data_cleaning/tidy_club_data.R|data_cleaning/tidy_data.R|data_cleaning/tidy_tm_data.R|data_cleaning/tidy_wikipedia_data.R|data_gathering/get_club_data.R|data_gathering/get_data.R|data_gathering/get_tm_data.R|data_gathering/get_wikipedia_data.R

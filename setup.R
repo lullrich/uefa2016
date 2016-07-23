@@ -1,8 +1,55 @@
 # Main setup script loading all the needed libraries and 
 # defining the necessary functions.
-setwd("~/Workspace/R/uefa2016")
+
+# Set working directory:
+# setwd("~/Workspace/R/uefa2016")
 options(stringsAsFactors = F, scipen = 999)
 
+# Checking if all needed packages are installed and installing them if not
+if(!require("rvest")){
+  install.packages("rvest")
+}
+if(!require("tidyr")){
+  install.packages("tidyr")
+}
+if(!require("dplyr")){
+  install.packages("dplyr")
+}
+if(!require("data.table")){
+  install.packages("data.table")
+}
+if(!require("lubridate")){
+  install.packages("lubridate")
+}
+if(!require("stringr")){
+  install.packages("stringr")
+}
+if(!require("httr")){
+  install.packages("httr")
+}
+if(!require("jsonlite")){
+  install.packages("jsonlite")
+}
+if(!require("countrycode")){
+  install.packages("countrycode")
+}
+if(!require("shiny")){
+  install.packages("shiny")
+}
+if(!require("ggplot2")){
+  install.packages("ggplot2")
+}
+if(!require("ggthemes")){
+  install.packages("ggthemes")
+}
+if(!require("plotly")){
+  install.packages("plotly")
+}
+if(!require("scales")){
+  install.packages("scales")
+}
+
+# loading the libraries
 library("rvest")
 library("tidyr")
 library("dplyr")
@@ -11,7 +58,14 @@ library("lubridate")
 library("stringr")
 library("httr")
 library("jsonlite")
+library("countrycode")
+library("shiny")
+library("ggplot2")
+library("ggthemes")
+library("plotly")
+library("scales")
 
+# Sparql endpoint
 wikidata_endpoint <- "https://query.wikidata.org/sparql"
 
 get_wikidata_link <- function (url) {
